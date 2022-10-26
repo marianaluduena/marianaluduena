@@ -3,13 +3,13 @@
 - 👀 I’m interested in:
 
  - Javascript
- -  Python
+ -  Python 🐍
  -  C++ 
  -  Backend 
  -  SQL
- -  Cybersecurity
+ -  Cybersecurity ^^
  -  English and German
--   Magic
+-   Magic ✨✨
 
 - 🌱 I’m currently learning programming and web design in a course.
  
