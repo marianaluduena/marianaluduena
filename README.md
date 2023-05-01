@@ -18,7 +18,6 @@
 - 📫 How to reach me:
 
 My LinkedIn: https://www.linkedin.com/in/mariana-ludue%C3%B1a-41839698/
-My Instagram: https://www.instagram.com/mar_lud94/
 <!---
 marianaluduena/marianaluduena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
