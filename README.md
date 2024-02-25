@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I've started to learn Javascript by myself three years ago now doing small projects watching Free Code Camp videos,
-- and then I've done a web design course in Coder House with HTML, Css and Sass.
+- 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning web development on my own until, in 2021, I decided to deepen my knowledge at Coder House with a web development course.
+Seeking to explore other areas of the IT sector, I became interested in software testing and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the software life cycle, designed and executed test cases, reported discovered bugs, and learned about different types of issues.
 - 👀 I’m interested in:
 
+ - QA Testing (Manual and Automation)
+ - API Testing
  - Javascript
  -  Python 🐍
- -  C++ 
- -  Backend 
  -  SQL
  -  Cybersecurity ^^
  -  English and German
 -   Magic ✨✨
 
-- 🌱 I’m currently learning programming and web design in a course.
+- 🌱 I’m always practicing my front-end skills by doing small personal proyects.
  
 - 💞️ I’m looking to collaborate on small projects with JS.
 
