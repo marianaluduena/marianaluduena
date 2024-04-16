@@ -5,9 +5,9 @@ Seeking to explore other areas of the IT sector, I became interested in software
 
 Now:
 
-- I'm finishing a QA Manual course in Coderhouse
+- I've just finished a QA Manual course in Coderhouse
 - I'm learning Javascript and I want to have a deep undestanding of it
-- Postman API Fundamentals Student Expert certification (coming soon)
+- Postman API Fundamentals Student Expert certification (currently)
 - 🌱 I’m always practicing my front-end skills by doing small personal proyects
 
  👀 I’m interested in:
@@ -21,13 +21,20 @@ Now:
 Fun fucts: 
 
 - I do magic tricks just for fun and to learn how to think out of the box ✨✨
-- I love to write stories (reading good ones to!)
+- I love to write stories (reading good ones too!)
 - I've studied German for four years in a languages school, but first I started learning German by myself
 - Reading, warching movies, series and tutorials and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
 
 - 📫 How to reach me:
 
 My LinkedIn: 
+
+https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
+
+My Portfolio on Notion:
+
+https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
+
 <!---
 marianaluduena/marianaluduena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
