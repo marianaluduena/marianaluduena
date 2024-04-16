@@ -5,9 +5,9 @@ Seeking to explore other areas of the IT sector, I became interested in software
 
 Now:
 
+- Postman API Fundamentals Student Expert certification (currently)
 - I've just finished a QA Manual course in Coderhouse
 - I'm learning Javascript and I want to have a deep undestanding of it
-- Postman API Fundamentals Student Expert certification (currently)
 - 🌱 I’m always practicing my front-end skills by doing small personal proyects
 
  👀 I’m interested in:
