@@ -1,4 +1,4 @@
-#BIO
+BIO
 
 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
@@ -32,7 +32,7 @@ At present, I am enhancing my understanding of testing methods and tools through
   
 - Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
 
-Examples of my work:
+###Examples of my work:
 
 
 
