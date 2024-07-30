@@ -1,4 +1,4 @@
-BIO
+#BIO
 
 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
@@ -11,7 +11,7 @@ At present, I am enhancing my understanding of testing methods and tools through
  Over the next two years, my goal is to advance to a mid-level software tester!
  
 
- 🛠️ Tools:
+ 🛠️ ##Tools:
 
   - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
     
@@ -33,7 +33,8 @@ At present, I am enhancing my understanding of testing methods and tools through
 - Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
 
 Examples of my work:
-A second-level heading
+
+
 
 💼 My Portfolio on Notion:
 
