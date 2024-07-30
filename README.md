@@ -1,13 +1,49 @@
 BIO
 
-👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning web development on my own until, in 2021, I decided to deepen my knowledge at Coder House with a web development course.
-Seeking to explore other areas of the IT sector, I became interested in software testing and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the software life cycle, designed and executed test cases, reported discovered bugs, and learned about different types of issues.
+👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
+
+Seeking to explore other areas of the IT sector, I became interested in software testing and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the software life cycle, designed and executed test cases, reported discovered bugs, learned about different types of issues, and REST and SOAP APIs.
+
+At present, I am enhancing my understanding of testing methods and tools through online courses, and by evaluating web applications designed for educational purposes. During the testing process I use Jira to get familiar with it, how it works, how agile methodologies work, and as a simulation of a real daily work environment.
+
+ I would be thrilled to apply what I've learned to assess a live product and acquire practical experience. 
+ 
+ Over the next two years, my goal is to advance to a mid-level software tester!
+ 
+
+ 🛠️ Tools:
+
+  - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
+    
+  - Agile Test: I've learned how to create manual test cases, add preconditions, write test plans and bug reports.
+    
+  - ScreenToGif: my favorite tool to document evidence! (More visual, more useful than just an image to ilustrate issues, easy to use, free, and lighter than videos!)
+    
+  - Postman: I've gained experience through manual testing of public APIs used for educational purposes.
+    
+  - Browser Developer's Tools.
+    
+
+🎓 Certificates:
+
+- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
+  
+- QA Manual Testing (Coder House): https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es
+  
+- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
+
+
+💼 My Portfolio on Notion:
+
+https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
+
 
 Now:
 
 - I'm learning Jira and agile methodologies
 - I'm learning Javascript and I want to have a deep undestanding of it
 - 🌱 I’m always practicing my front-end skills by doing small personal proyects
+  
 
  👀 I’m interested in:
 
@@ -17,36 +53,24 @@ Now:
  -  SQL and Data Bases
  -  Security of web aplications
 
-🎓 Certificates:
 
-- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
-- QA Manual Testing (Coder House): https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es
-- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
-
-  🛠️ Tools:
-
-  - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
-  - Agile Test: I've learned how to create manual test cases, add preconditions, write test plans and bug reports.
-  - ScreenToGif: my favorite tool to document evidence! (More visual, more useful than just an image to ilustrate issues, easy to use, free, and lighter than videos!)
-  - Postman: I've gained experience through manual testing of public APIs used for educational purposes
-  - Browser Developer's Tools
-
-- 📫 How to reach me:
+ 📫 How to reach me:
 
 💻 My LinkedIn: 
 
 https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
 
-💼 My Portfolio on Notion:
-
-https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
 
 ✨🪄Fun facts: 
 
 - I do magic tricks just for fun and to learn how to think out of the box ✨✨
+  
 - I love to write stories (reading good ones too!)
+  
 - I'm learning to play piano and the accordion! 🎹🪗❤️
+  
 - I've studied German for four years in a languages school, but first I started learning German by myself
+  
 - Reading, warching movies, series and tutorials and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
 
 <!---
