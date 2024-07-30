@@ -1,4 +1,4 @@
-BIO
+# BIO
 
 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
@@ -11,7 +11,7 @@ At present, I am enhancing my understanding of testing methods and tools through
  Over the next two years, my goal is to advance to a mid-level software tester!
  
 
- 🛠️ ##Tools:
+ ## 🛠️ Tools:
 
   - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
     
@@ -24,7 +24,7 @@ At present, I am enhancing my understanding of testing methods and tools through
   - Browser Developer's Tools.
     
 
-🎓 Certificates:
+## 🎓 Certificates:
 
 - Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
   
@@ -32,24 +32,24 @@ At present, I am enhancing my understanding of testing methods and tools through
   
 - Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
 
-###Examples of my work:
+## Examples of my work:
 
 
 
-💼 My Portfolio on Notion:
+### 💼 My Portfolio on Notion:
 
 https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
 
 
 
-Now:
+### Now:
 
 - I'm learning Jira and agile methodologies
 - I'm learning Javascript and I want to have a deep undestanding of it
 - 🌱 I’m always practicing my front-end skills by doing small personal proyects
   
 
- 👀 I’m interested in:
+### 👀 I’m interested in:
 
  - QA Testing (Manual and Automation)
  - API Testing
@@ -58,14 +58,18 @@ Now:
  -  Security of web aplications
 
 
- 📫 How to reach me:
+## 📫 How to reach me:
 
-💻 My LinkedIn: 
+### 💻 My LinkedIn: 
 
 https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
 
+### My E-mail:
 
-✨🪄Fun facts: 
+marianabelenluduena@gmail.com
+
+
+#### ✨🪄Fun facts: 
 
 - I do magic tricks just for fun and to learn how to think out of the box ✨✨
   
