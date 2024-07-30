@@ -9,7 +9,38 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
  I would be thrilled to apply what I've learned to assess a live product and acquire practical experience. 
  
  Over the next two years, my **goal** is to advance to a **mid-level software tester**!
- 
+
+ ## Skills:
+
+### Manual Testing:
+
+- Exploratory testing
+
+-  Functional and usability testing of web applications
+
+### Test Documentation:
+
+- Create manual test cases, preconditions, test plans, and test execution with **Agile Test**
+
+- Familiar writing comprehensive bug reports with the steps to replicate the issue.
+
+- Documentation of **evidence** with **ScreeenToGif**
+
+
+### Agile Methodollogies:
+
+- Familiar with **Jira**
+
+
+### API Testing:
+
+- Familiar with **Postman**
+- Know how to manipulate requests
+- Knowleadge with GET, POST, PATCH, DELETE
+- Familiar with **API Documentation**
+- Gained experience through manual testing of free APIs (PokéAPI, SWAPI)
+
+  
 
  ## 🛠️ Tools:
 
@@ -26,14 +57,20 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
     
 
-## 🎓 Certificates:
+## 🎓 Courses and Certificates:
 
-- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
+### Postman API Fundamentals Student Expert (2024)
+
+
+- [Postman API Fundamentals Student Expert certification](https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ)
+
+  ### QA Manual Testing (2024)
   
 - [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
+
+  ### Web Development (2022)
   
 - [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
-
 
 
 
