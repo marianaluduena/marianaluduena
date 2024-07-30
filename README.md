@@ -21,7 +21,15 @@ Now:
 
 - Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
 - QA Manual Testing (Coder House): https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es
-- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es 
+- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
+
+  🛠️ Tools:
+
+  - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
+  - Agile Test: I've learned how to create manual test cases, add preconditions, write test plans and bug reports.
+  - ScreenToGif: my favorite tool to document evidence! (More visual, more useful than just an image to ilustrate issues, easy to use, free, and lighter than videos!)
+  - Postman: I've gained experience through manual testing of public APIs used for educational purposes
+  - Browser Developer's Tools
 
 - 📫 How to reach me:
 
