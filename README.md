@@ -5,8 +5,7 @@ Seeking to explore other areas of the IT sector, I became interested in software
 
 Now:
 
-- Postman API Fundamentals Student Expert certification (currently)
-- I've just finished a QA Manual course in Coderhouse
+- I'm learning Jira and agile methodologies
 - I'm learning Javascript and I want to have a deep undestanding of it
 - 🌱 I’m always practicing my front-end skills by doing small personal proyects
 
@@ -18,22 +17,29 @@ Now:
  -  SQL and Data Bases
  -  Security of web aplications
 
-Fun fucts: 
+🎓 Certificates:
 
-- I do magic tricks just for fun and to learn how to think out of the box ✨✨
-- I love to write stories (reading good ones too!)
-- I've studied German for four years in a languages school, but first I started learning German by myself
-- Reading, warching movies, series and tutorials and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
+- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
+- QA Manual Testing (Coder House): https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es
+- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es 
 
 - 📫 How to reach me:
 
-My LinkedIn: 
+💻 My LinkedIn: 
 
 https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
 
-My Portfolio on Notion:
+💼 My Portfolio on Notion:
 
 https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
+
+✨🪄Fun facts: 
+
+- I do magic tricks just for fun and to learn how to think out of the box ✨✨
+- I love to write stories (reading good ones too!)
+- I'm learning to play piano and the accordion! 🎹🪗❤️
+- I've studied German for four years in a languages school, but first I started learning German by myself
+- Reading, warching movies, series and tutorials and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
 
 <!---
 marianaluduena/marianaluduena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
