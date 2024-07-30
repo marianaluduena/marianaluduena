@@ -28,7 +28,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ## 🎓 Certificates:
 
-- [Postman API Fundamentals Student Expert certification](https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ)
+- Postman API Fundamentals Student Expert certification: ```<iframe src="https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>```
   
 - [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
   
