@@ -32,10 +32,13 @@ At present, I am enhancing my understanding of testing methods and tools through
   
 - Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
 
+Examples of my work:
+A second-level heading
 
 💼 My Portfolio on Notion:
 
 https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
+
 
 
 Now:
