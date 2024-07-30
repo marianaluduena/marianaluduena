@@ -22,15 +22,20 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
   - **Postman**: I've gained experience through manual testing of public APIs used for educational purposes.
     
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
+
+
     
 
 ## 🎓 Certificates:
 
-- [Postman API Fundamentals Student Expert certification]: (https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com)
+- [Postman API Fundamentals Student Expert certification](https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com)
   
-- [QA Manual Testing] (Coder House): (https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
+- [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
   
-- [Web Development] (Coder House): (https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
+- [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
+
+
+
 
 ## Examples of my work:
 
@@ -38,7 +43,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ### 💼 My Portfolio on Notion:
 
-https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa
+[See my Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
 
 
 
