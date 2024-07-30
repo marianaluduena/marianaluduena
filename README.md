@@ -1,36 +1,36 @@
 # BIO
 
-👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a self-taught individual with a strong curiosity about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
+👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
-Seeking to explore other areas of the IT sector, I became interested in software testing and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the software life cycle, designed and executed test cases, reported discovered bugs, learned about different types of issues, and REST and SOAP APIs.
+Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
 
-At present, I am enhancing my understanding of testing methods and tools through online courses, and by evaluating web applications designed for educational purposes. During the testing process I use Jira to get familiar with it, how it works, how agile methodologies work, and as a simulation of a real daily work environment.
+At present, I am enhancing my understanding of **testing methods** and **tools** through online courses, and by evaluating web applications designed for educational purposes. During the testing process I use **Jira** to get familiar with it, how it works, how **agile methodologies** work, and as a simulation of a real daily work environment.
 
  I would be thrilled to apply what I've learned to assess a live product and acquire practical experience. 
  
- Over the next two years, my goal is to advance to a mid-level software tester!
+ Over the next two years, my **goal** is to advance to a **mid-level software tester**!
  
 
  ## 🛠️ Tools:
 
-  - Jira: I've learned how to create projects, track and report issues and tasks management by simulating a sprint, and also to get a feel for how agile methodologies work.
+  - **Jira**: I've learned how to **create projects**, **track** and **report** issues and **tasks management** by simulating a **sprint**, and also to get a feel for how **agile methodologies** work.
     
-  - Agile Test: I've learned how to create manual test cases, add preconditions, write test plans and bug reports.
+  - **Agile Test**: I've learned how to **create manual test cases**, **add preconditions**, **write test plans** and **bug reports**.
     
-  - ScreenToGif: my favorite tool to document evidence! (More visual, more useful than just an image to ilustrate issues, easy to use, free, and lighter than videos!)
+  - **ScreenToGif**: my favorite tool to **document evidence**! (More **visual**, more **useful** than just an image to ilustrate issues, **easy** to use, **free**, and **lighter than videos**!)
     
-  - Postman: I've gained experience through manual testing of public APIs used for educational purposes.
+  - **Postman**: I've gained experience through manual testing of public APIs used for educational purposes.
     
-  - Browser Developer's Tools.
+  - **Browser Developer's Tools**: **Network** and **Lighthouse**.
     
 
 ## 🎓 Certificates:
 
-- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com
+- [Postman API Fundamentals Student Expert certification]: (https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ?identity__email=marianabelenluduena%40gmail.com)
   
-- QA Manual Testing (Coder House): https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es
+- [QA Manual Testing] (Coder House): (https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
   
-- Web Development (Coder House): https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es
+- [Web Development] (Coder House): (https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
 
 ## Examples of my work:
 
@@ -64,12 +64,12 @@ https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4f
 
 https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
 
-### My E-mail:
+### My Mail:
 
 marianabelenluduena@gmail.com
 
 
-#### ✨🪄Fun facts: 
+### ✨🪄Fun facts: 
 
 - I do magic tricks just for fun and to learn how to think out of the box ✨✨
   
@@ -79,7 +79,7 @@ marianabelenluduena@gmail.com
   
 - I've studied German for four years in a languages school, but first I started learning German by myself
   
-- Reading, warching movies, series and tutorials and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
+- Reading, watching movies, series and tutorials, and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
 
 <!---
 marianaluduena/marianaluduena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
