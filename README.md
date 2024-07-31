@@ -1,4 +1,4 @@
-# BIO
+# Bio
 
 👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
@@ -76,6 +76,11 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ## Examples of my work:
 
+### Test Cases:
+
+#### La Revistería Cómics Project (2024)
+
+- [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://drive.google.com/drive/folders/1wVP-zN2re_d9Xb5Y9XvLDl996X3mep7w?usp=sharing)
 
 
 ### 💼 My Portfolio on Notion:
