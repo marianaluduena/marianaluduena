@@ -76,13 +76,13 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ## Examples of my work:
 
-### Test Cases:
+### Test Cases
 
 #### La Revistería Cómics Project (2024)
 
 - [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://docs.google.com/spreadsheets/d/1pX23W9WVULyYPEXCPYzSnAv6rX2pQjMs/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
-### Bug reports and Agile methodologies:
+### Bug reports and Agile methodologies
 
 #### La Revistería Cómics Project
 
@@ -97,10 +97,17 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
   3- [Sending the contact form with special characters](https://docs.google.com/document/d/1JjJ5EJRVI1xMIRFnTXoSS6PoE5nw7EzJ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
 See the backlog in Jira of this project [here](https://drive.google.com/file/d/1vHLXpMnhJYtGjMqQUTVlnbsmtTOpSyjh/view?usp=drive_link)
+
+### API Testing
+
+#### La Revistería Cómics Project:
+
+- With the Developer's tools of **Chrome** I checked all the calls from the web site to the API's to see wich ones weren't working. Check the report [here](https://drive.google.com/file/d/1PFNdH5g8U_C7PtSCjvtsKPaTHwjPn4Zb/view?usp=drive_link)
+
   
 ### 💼 My Portfolio on Notion:
 
-[See my Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
+Check all my projects in detail [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
 
 
 
