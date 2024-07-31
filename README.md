@@ -80,7 +80,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 #### La Revistería Cómics Project (2024)
 
-- [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://drive.google.com/drive/folders/1wVP-zN2re_d9Xb5Y9XvLDl996X3mep7w?usp=sharing)
+- [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://docs.google.com/spreadsheets/d/1pX23W9WVULyYPEXCPYzSnAv6rX2pQjMs/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
 
 ### 💼 My Portfolio on Notion:
