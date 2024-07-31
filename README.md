@@ -135,7 +135,11 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
 ### 💻 My LinkedIn: 
 
-https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/
+Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
+
+### 🔎 My Web Site:
+
+Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
 
 ### My Mail:
 
@@ -144,13 +148,10 @@ marianabelenluduena@gmail.com
 
 ### ✨🪄Fun facts: 
 
-- I do magic tricks just for fun and to learn how to think out of the box ✨✨
   
 - I love to write stories (reading good ones too!)
   
 - I'm learning to play piano and the accordion! 🎹🪗❤️
-  
-- I've studied German for four years in a languages school, but first I started learning German by myself
   
 - Reading, watching movies, series and tutorials, and listening to music in English are not just only my hobbies, but they help me a lot to improve my English too. 
 
