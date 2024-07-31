@@ -24,7 +24,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 - Familiar writing comprehensive bug reports with the steps to replicate the issue.
 
-- Documentation of **evidence** with **ScreeenToGif**
+- Documentation of **evidence** with **ScreenToGif**
 
 
 ### Agile Methodollogies:
@@ -88,6 +88,16 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 - Check all the bugs reported from this project (in Spanish) [here](https://docs.google.com/document/d/17mUoNXPC3tC_qVBUP4cWvXPTDJCRAGHm/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
+- Check a list of the most critical bugs reported in **Jira**:
+
+  1- [Error 500](https://docs.google.com/document/d/1J5_0djp9qJ76qk3m5EvpcOfqaXSpjiEQ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
+
+  2- [Invalid Mail domain in the contact forrm](https://docs.google.com/document/d/1mm8kAb3j5kN0ySRqaXy1MkHQVzLOZeZc/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
+
+  3- [Sending the contact form with special characters](https://docs.google.com/document/d/1JjJ5EJRVI1xMIRFnTXoSS6PoE5nw7EzJ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
+
+See the backlog in Jira of this project [here](https://drive.google.com/file/d/1vHLXpMnhJYtGjMqQUTVlnbsmtTOpSyjh/view?usp=drive_link)
+  
 ### 💼 My Portfolio on Notion:
 
 [See my Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
