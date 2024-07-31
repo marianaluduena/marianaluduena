@@ -82,6 +82,11 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 - [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://docs.google.com/spreadsheets/d/1pX23W9WVULyYPEXCPYzSnAv6rX2pQjMs/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
+### Bug reports and Agile methodologies:
+
+#### La Revistería Cómics Project
+
+- Check all the bugs reported from this project (in Spanish) [here](https://docs.google.com/document/d/17mUoNXPC3tC_qVBUP4cWvXPTDJCRAGHm/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
 ### 💼 My Portfolio on Notion:
 
