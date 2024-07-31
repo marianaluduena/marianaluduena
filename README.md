@@ -1,6 +1,6 @@
 # Bio
 
-👋 Hi, I’m Mariana Ludueña and I'm from Argentina. I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
+👋 Hi, nice to meet you! I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
 Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
 
@@ -66,9 +66,13 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
   ### QA Manual Testing (2024)
   
+  An introductory course where I had my first hands-of-experience while testing a real web site. I learned about software life cycle, types of testing, types of bugs and how to report them, and abot APIs.
+  
 - [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
 
   ### Web Development (2022)
+
+  On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
   
 - [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
 
@@ -107,7 +111,7 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
   
 ### 💼 My Portfolio on Notion:
 
-Check all my projects in detail [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
+Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
 
 
 
