@@ -62,7 +62,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 ### Postman API Fundamentals Student Expert (2024)
 
 
-- Postman API Fundamentals Student Expert certification: https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ
+- [Postman API Fundamentals Student Expert certification](https://api.badgr.io/public/assertions/cEF4bjv2Q3KvSGxVPpScNQ)
 
   ### QA Manual Testing (2024)
   
