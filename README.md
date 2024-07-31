@@ -112,14 +112,6 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 ### 💼 My Portfolio on Notion:
 
 Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
-
-
-
-### Now:
-
-- I'm learning Jira and agile methodologies
-- I'm learning Javascript and I want to have a deep undestanding of it
-- 🌱 I’m always practicing my front-end skills by doing small personal proyects
   
 
 ### 👀 I’m interested in:
@@ -133,6 +125,7 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
 ## 📫 How to reach me:
 
+
 ### 💻 My LinkedIn: 
 
 Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
@@ -144,6 +137,7 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 ### My Mail:
 
 marianabelenluduena@gmail.com
+
 
 
 ### ✨🪄Fun facts: 
