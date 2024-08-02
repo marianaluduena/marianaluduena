@@ -57,6 +57,11 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 
 
+
+
+
+
+
 ## Examples of my work:
 
 ### Test Cases
@@ -95,7 +100,10 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
 
 
-    
+
+
+
+
 
 ## 🎓 Courses and Certificates:
 
@@ -129,6 +137,10 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
  -  Security of web aplications
 
 
+
+
+
+
 ## 📫 How to reach me:
 
 
@@ -143,6 +155,10 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 ### My Mail:
 
 marianabelenluduena@gmail.com
+
+
+
+
 
 
 
