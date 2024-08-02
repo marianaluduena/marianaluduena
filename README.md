@@ -55,27 +55,6 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
 
 
-    
-
-## 🎓 Courses and Certificates:
-
-### Postman API Fundamentals Student Expert (2024)
-
-
-- [Postman API Fundamentals Student Expert certification](https://drive.google.com/file/d/1HpHq_4DPDo1p1v8_GvmlkOGP0TtcdsUL/view?usp=sharing)
-
-  ### QA Manual Testing (2024)
-  
-  An introductory course where I had my first hands-of-experience while testing a real web site. I learned about software life cycle, types of testing, types of bugs and how to report them, and abot APIs.
-  
-- [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
-
-  ### Web Development (2022)
-
-  On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
-  
-- [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
-
 
 
 ## Examples of my work:
@@ -112,6 +91,31 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 ### 💼 My Portfolio on Notion:
 
 Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
+
+
+    
+
+## 🎓 Courses and Certificates:
+
+### Postman API Fundamentals Student Expert (2024)
+
+
+- [Postman API Fundamentals Student Expert certification](https://drive.google.com/file/d/1HpHq_4DPDo1p1v8_GvmlkOGP0TtcdsUL/view?usp=sharing)
+
+  ### QA Manual Testing (2024)
+  
+  An introductory course where I had my first hands-of-experience while testing a real web site. I learned about software life cycle, types of testing, types of bugs and how to report them, and abot APIs.
+  
+- [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
+
+  ### Web Development (2022)
+
+  On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
+  
+- [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
+
+
+
   
 
 ### 👀 I’m interested in:
