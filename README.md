@@ -1,6 +1,6 @@
 # My Profile
 
-## Bio (link)
+## Bio ()
 ## Skills
 ## Tools
 ## Examples of my work
