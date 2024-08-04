@@ -1,13 +1,13 @@
 # My Profile
 
-## Bio ()
-## Skills
-## Tools
-## Examples of my work
-## Courses and Certificates
-## I'm interested in...
-## How to reach me
-## Fun facts!
+1- [Bio]() 
+2-Skills
+3- Tools
+4- Examples of my work
+5- Courses and Certificates
+6- I'm interested in...
+7- How to reach me
+8- Fun facts!
 
 ## Bio
 
