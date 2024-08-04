@@ -1,4 +1,15 @@
-# Bio
+# My Profile
+
+## Bio (link)
+## Skills
+## Tools
+## Examples of my work
+## Courses and Certificates
+## I'm interested in...
+## How to reach me
+## Fun facts!
+
+## Bio
 
 👋 Hi, nice to meet you! I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
 
@@ -100,11 +111,6 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
 
 
-
-
-
-
-
 ## 🎓 Courses and Certificates:
 
 ### Postman API Fundamentals Student Expert (2024)
@@ -118,6 +124,10 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
   
 - [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
 
+ ### Web Development 2022 - currently
+
+ I learned front-end and back-end on a course in the Da Vinci Art School. I will get my degree on December!
+
   ### Web Development (2022)
 
   On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
@@ -128,16 +138,13 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
   
 
-### 👀 I’m interested in:
+## 👀 I’m interested in:
 
  - QA Testing (Manual and Automation)
  - API Testing
  - Programming languages: Javascript, Python 🐍
  -  SQL and Data Bases
  -  Security of web aplications
-
-
-
 
 
 
@@ -155,10 +162,6 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 ### My Mail:
 
 marianabelenluduena@gmail.com
-
-
-
-
 
 
 
