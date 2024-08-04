@@ -1,13 +1,13 @@
 # My Profile
 
-1- [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio) 
-2- [Skills]()
-3- [Tools]()
-4- [Examples of my work]()
-5- [Courses and Certificates]()
-6- [I'm interested in...]()
-7- [How to reach me]()
-8- [Fun facts!]()
+[Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio) 
+[Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
+[Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
+-[Examples of my work](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
+- [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
+- [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
+- [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
+- [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
 ## Bio
 
