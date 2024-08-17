@@ -57,7 +57,8 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - PHP
 - MySQL
 
-### Web Development:
+
+### Web Development
 
 - Bootstrap
 - SASS
