@@ -123,7 +123,7 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 Check all my QA projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
 
 
-## Web Development:
+## Web Development
 
 ### The Magic Chest Project (This project is in Spanish)
 
