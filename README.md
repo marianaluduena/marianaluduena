@@ -51,6 +51,23 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - Familiar with **API Documentation**
 - Gained experience through manual testing of free APIs (PokéAPI, SWAPI)
 
+### Programming Languages:
+
+- Javascript
+- PHP
+- MySQL
+
+### Web Development:
+
+- Bootstrap
+- SASS
+- Responsive Design
+- Mobile first
+- React.js
+
+  ### Others:
+
+  - Git and GitHub.
   
 
  ## 🛠️ Tools:
@@ -68,6 +85,8 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 
 ## Examples of my work:
+
+## QA Testing
 
 ### Test Cases
 
@@ -98,12 +117,23 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 - With the Developer's tools of **Chrome** I checked all the calls from the web site to the API's to see wich ones weren't working. Check the report [here](https://drive.google.com/file/d/1PFNdH5g8U_C7PtSCjvtsKPaTHwjPn4Zb/view?usp=drive_link)
 
   
-### 💼 My Portfolio on Notion:
+### 💼 My QA Portfolio on Notion:
 
-Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
+Check all my QA projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
 
 
+## Web Development:
 
+### The Magic Chest Project (This project is in Spanish)
+
+- This dinamic e-commerce is built up with **PHP**, **MySQL** and **Bootstrap**. It was an academic project for **The Da Vinci School of Art**:
+
+  See this project [here](https://drive.google.com/file/d/1W1eP4aQq0VuMd4gqQ2WSOvDDxDfj0W84/view)
+
+### 💼 My Web Development Portfolio on Notion:
+
+Check all my Web Development projects [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827)
+  
 
 ## 🎓 Courses and Certificates:
 
@@ -139,6 +169,7 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
  - Programming languages: Javascript, Python 🐍
  -  SQL and Data Bases
  -  Security of web aplications
+ -  Web Development
 
 
 
@@ -149,9 +180,12 @@ Check all my projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-
 
 Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
 
-### 🔎 My Web Site:
+### 🔎 My Web Sites:
 
-Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
+Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my QA web site.
+
+Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) to visit my Web Development web site.
+
 
 ### My Mail:
 
