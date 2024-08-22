@@ -38,7 +38,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - Documentation of **evidence** with **ScreenToGif**
 
 
-### Agile Methodollogies:
+### Agile Methodologies:
 
 - Familiar with **Jira**
 
@@ -83,6 +83,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
     
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
 
+  - **JMeter** 
 
 
 ## Examples of my work:
