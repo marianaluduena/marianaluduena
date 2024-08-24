@@ -139,6 +139,12 @@ Check all my Web Development projects [here](https://mariana-luduena-qa-tester.n
 
 ## 🎓 Courses and Certificates:
 
+### Agile Project Management with Jira (2024) 
+
+ During this course I've learned how to track issues and bugs with **Jira**, how it works, about **sprints** and **Scrum** methodology.
+
+- [Agile Project Management with Jira certificate](https://www.institutoweb.com.ar/certificadosjira/docs/certificado_Ludue%c3%b1a_Mariana.pdf)
+
 ### Postman API Fundamentals Student Expert (2024)
 
 
