@@ -7,7 +7,7 @@
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 - [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
 - [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
-- [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-communities-i-belong-to)
+- [Communities I belong to]()
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
 ## Bio
