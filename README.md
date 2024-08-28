@@ -7,6 +7,7 @@
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 - [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
 - [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
+- [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-communities-i-belong-to)
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
 ## Bio
@@ -121,7 +122,7 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
   
 ### 💼 My QA Portfolio on Notion:
 
-Check all my QA projects in detail [here](https://www.notion.so/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa?pvs=4#5e8de05a00864b5c94180fdf5298140d)
+Check all my QA projects in detail [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
 
 
 ## Web Development
@@ -200,6 +201,15 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front
 marianabelenluduena@gmail.com
 
 
+
+## Communities I belong to:
+
+- **Frontend Café** (In Spanish): It's a HUGE online community that involves Web Developers, UI / UX Designers, QA testers, Mobile, Hardware, Data Science, etc, Here we share resources to learn, courses, books, podcasts, study groups and much more. Point is: we help each other! Join us [here!](https://frontend.cafe/)
+
+
+- **Free Range Testers** (In Spanish): It's a QA online community with online courses in Udemy, resourcers, a blog and more. Check the web site [here](https://www.freerangetesters.com/)
+
+  
 
 ## ✨🪄Fun facts: 
 
