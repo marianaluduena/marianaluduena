@@ -50,7 +50,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - Know how to manipulate requests
 - Knowleadge with GET, POST, PATCH, DELETE
 - Familiar with **API Documentation**
-- Gained experience through manual testing of free APIs (PokéAPI, SWAPI)
+- Gained experience through manual & automation testing.
 
 ### Programming Languages:
 
@@ -93,11 +93,24 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ### Test Cases
 
+#### Wander Project - Igrowker Junior IT Training Internship (2024)
+
+- [Wander Project](https://drive.google.com/drive/folders/1eC-L5fw5psB7-HZ_VXz-wtCSiWn6Osgz?usp=drive_link) Wander is a touristic web-app that connects tourists with local residents offering unique traveling experiences. Wander was created during an internship.
+
 #### La Revistería Cómics Project (2024)
 
 - [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://docs.google.com/spreadsheets/d/1pX23W9WVULyYPEXCPYzSnAv6rX2pQjMs/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
 ### Bug reports and Agile methodologies
+
+#### Wander Project
+
+- Check all Wander project's bugs reported (in Spanish):
+  
+- [Register form - US-05](https://drive.google.com/drive/folders/1Vgb74mkqOPq16VCpnY8LzYA9fx9HYpfp?usp=drive_link)
+- [Confirm register - US-09](https://drive.google.com/drive/folders/1S4OPeq2SQ7AN0wkpOLgVXyx3igz0zRKm?usp=drive_link)
+- [Filters - US-01](https://drive.google.com/drive/folders/1lx2LtJhoKqTD2P_O2ts-eMylkTTpMH_-?usp=drive_link)
+- [Search Bar - US-10](https://drive.google.com/drive/folders/17RlQcs_IKggMcxqc3phBRq-gFHrokScV?usp=drive_link) 
 
 #### La Revistería Cómics Project
 
@@ -114,6 +127,22 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 See the backlog in Jira of this project [here](https://drive.google.com/file/d/1vHLXpMnhJYtGjMqQUTVlnbsmtTOpSyjh/view?usp=drive_link)
 
 ### API Testing
+
+#### Wander Project
+
+- The Wander's Node API was tested both manually and with automated tests by using Postman. I learned how to write API test cases with ChatGTP's help.
+
+  #### Wander's API Test Cases
+
+- [Register form - US-05](https://docs.google.com/spreadsheets/d/1KCr5aWQcLDJof_JgRo6rBNYi3-tM5bJU/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
+- [Confirm register - US-09](https://docs.google.com/spreadsheets/d/1-ZhoO7fkj5-WsLPUY5_4z96BoOU4ynHW/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
+- [Filters - US-01](https://docs.google.com/spreadsheets/d/1RaPMeIPdyoDEm6-ly3KvBaAAIlPRFW9e/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
+
+  #### Wander's API Bug Reports
+
+- [Register form - US-05](https://drive.google.com/drive/folders/14UlxUpS8l8iJifwGNbVmkh3PjHTgVlgI?usp=drive_link)
+- [Confirm register - US-09](https://drive.google.com/drive/folders/1lcLMn4TsGJGb98z5es9NbOvxzRHtfm9H?usp=drive_link)
+
 
 #### La Revistería Cómics Project:
 
