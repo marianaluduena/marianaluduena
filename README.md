@@ -169,6 +169,21 @@ Check all my Web Development projects [here](https://mariana-luduena-qa-tester.n
 
 ## 🎓 Courses and Certificates:
 
+### QA Tester - Igrowker Junior IT Training (Internship- 2024) 
+
+During the internship I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project.
+
+#### Archievements
+
+- **90% Initial test coverage reached during Sprint 1**
+- **150 Test Cases were executed, covering the core functionalities of the main features**
+- **60 bugs identified, reported and solved**
+- **50 improvement suggestions**
+  
+ #### Certificate
+ 
+- [QA Tester](https://drive.google.com/file/d/1mWc1587LrZpHmMZAqgERTrIpNSr_x5XP/view?usp=drive_link)
+
 ### Agile Project Management with Jira (2024) 
 
  During this course I've learned how to track issues and bugs with **Jira**, how it works, about **sprints** and **Scrum** methodology.
@@ -185,10 +200,6 @@ Check all my Web Development projects [here](https://mariana-luduena-qa-tester.n
   An introductory course where I had my first hands-of-experience while testing a real web site. I learned about software life cycle, types of testing, types of bugs and how to report them, and abot APIs.
   
 - [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
-
- ### Web Development 2022 - currently
-
- I learned front-end and back-end on a course in the Da Vinci Art School. I will get my degree on December!
 
   ### Web Development (2022)
 
