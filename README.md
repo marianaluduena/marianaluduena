@@ -12,7 +12,7 @@
 
 ## Bio
 
-👋 Hi, nice to meet you! I define myself as a **self-taught** individual with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies (HTML5, CSS, Bootstrap, SASS, Javascript) by doing my own web sites.
+👋 Hi, nice to meet you! I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites.
 
 Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
 
@@ -29,19 +29,33 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - Exploratory testing
 
 -  Functional and usability testing of web applications
+  
+
+### Automation Testing:
+
+- **OOP Javascript**
+  
+- **API Automation with Postman** 
+  
+- **Cypress (in progress)**
+  
+- **Web Testing with Playwright (in porgress)**
+  
+- Automated tests and **DOM manipulation with Javascript and DevTools**
+  
 
 ### Test Documentation:
 
-- Create manual test cases, preconditions, test plans, and test execution with **Agile Test**
+- Create manual test cases, preconditions, test plans, and test execution with **Agile Test** and **X Ray**.
 
 - Familiar writing comprehensive bug reports with the steps to replicate the issue.
 
-- Documentation of **evidence** with **ScreenToGif**
+- Documentation of **evidence** with **ScreenToGif**.
 
 
 ### Agile Methodologies:
 
-- Familiar with **Jira**
+- Familiar with **Srum** and **Kanban**.
 
 
 ### API Testing:
@@ -50,7 +64,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - Know how to manipulate requests
 - Knowleadge with GET, POST, PATCH, DELETE
 - Familiar with **API Documentation**
-- Gained experience through manual & automation testing.
+- **Gained experience through manual & automation testing.**
 
 ### Programming Languages:
 
@@ -76,7 +90,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
   - **Jira**: I've learned how to **create projects**, **track** and **report** issues and **tasks management** by simulating a **sprint**, and also to get a feel for how **agile methodologies** work.
     
-  - **Agile Test**: I've learned how to **create manual test cases**, **add preconditions**, **write test plans** and **bug reports**.
+  - **Agile Test and X Ray**: I've learned how to **create manual test cases**, **add preconditions**, **write test plans** and **bug reports**.
     
   - **ScreenToGif**: my favorite tool to **document evidence**! (More **visual**, more **useful** than just an image to ilustrate issues, **easy** to use, **free**, and **lighter than videos**!)
     
@@ -179,8 +193,13 @@ During the internship I worked in a multicultural team, developed new soft skill
 - **150 Test Cases were executed, covering the core functionalities of the main features**
 - **60 bugs identified, reported and solved**
 - **50 improvement suggestions**
+- **Content creator and writer for the [Tester Testarudo](https://testertestarudo.com/) blog**
   
- #### Certificate
+ #### Certificates
+
+ ###  QA Tester in Igrowker IT Junior Internship
+
+ During this training I worked with developers, PM, fellow testers and DevOps, doing both manual testing and automation testing (for the API in Postman).
  
 - [QA Tester](https://drive.google.com/file/d/1mWc1587LrZpHmMZAqgERTrIpNSr_x5XP/view?usp=drive_link)
 
@@ -244,12 +263,15 @@ marianabelenluduena@gmail.com
 
 ## Communities I belong to:
 
+
+  - **Tester Testarudo** (In Spanish): an online free testing courses academy that's growing, and I was invited to write articles about software testing. Check the website [here](testertestarudo.com). 
+
 - **Frontend Café** (In Spanish): It's a HUGE online community that involves Web Developers, UI / UX Designers, QA testers, Mobile, Hardware, Data Science, etc, Here we share resources to learn, courses, books, podcasts, study groups and much more. Point is: we help each other! Join us [here!](https://frontend.cafe/)
 
 
-- **Free Range Testers** (In Spanish): It's a QA online community with online courses in Udemy, resourcers, a blog and more. Check the web site [here](https://www.freerangetesters.com/)
+- **Free Range Testers** (In Spanish): It's a QA online community with online courses in Udemy, resourcers, a blog and more. Check the website [here](https://www.freerangetesters.com/)
 
-  
+
 
 ## ✨🪄Fun facts: 
 
