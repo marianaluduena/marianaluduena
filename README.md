@@ -17,7 +17,7 @@
 
 Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
 
-At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. ALso, I write articles for a testing blog called [Tester Testarudo](https://testertestarudo.com/).
+At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. Also, I write articles for a testing blog called [Tester Testarudo](https://testertestarudo.com/).
  
  Over the next two years, my **goal** is to advance to a **mid-level software tester**!
 
@@ -101,7 +101,17 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 
 ## Examples of my work:
 
-## QA Testing
+## QA Automation Testing
+
+### Automation with OOP JavaScript (2025)
+
+- [js-oop-automation-testing-book-cart-project](https://github.com/marianaluduena/js-oop-automation-testing-book-cart-project) 
+
+###  Automation with just JavaScript and DevTools (2025)
+
+- [JS-Automation-Testing](https://github.com/marianaluduena/JS-automation-testing) is a small project where **all the tests are automated directly in the browser's console with Javascript by using the DevTools**.
+
+## QA Manual Testing
 
 ### Test Cases
 
