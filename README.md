@@ -5,7 +5,7 @@
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Examples of my work](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#examples-of-my-work)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
-- [Achievements]()
+- [Achievements](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#achievements)
 - [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
 - [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
 - [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#communities-i-belong-to)
