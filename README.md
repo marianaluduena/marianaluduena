@@ -62,7 +62,7 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 - Familiar with **Postman**
 - Know how to manipulate requests
 - Knowleadge with GET, POST, PATCH, DELETE
-- Familiar with **API Documentation**
+- Familiar with **API Documentation in Swagger**
 - **Gained experience through manual & automation testing.**
 
 ### Programming Languages:
@@ -132,9 +132,7 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 
   1- [Error 500](https://docs.google.com/document/d/1J5_0djp9qJ76qk3m5EvpcOfqaXSpjiEQ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
-  2- [Invalid Mail domain in the contact forrm](https://docs.google.com/document/d/1mm8kAb3j5kN0ySRqaXy1MkHQVzLOZeZc/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
-
-  3- [Sending the contact form with special characters](https://docs.google.com/document/d/1JjJ5EJRVI1xMIRFnTXoSS6PoE5nw7EzJ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
+  2- [Sending the contact form with special characters](https://docs.google.com/document/d/1JjJ5EJRVI1xMIRFnTXoSS6PoE5nw7EzJ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
 
 See the backlog in Jira of this project [here](https://drive.google.com/file/d/1vHLXpMnhJYtGjMqQUTVlnbsmtTOpSyjh/view?usp=drive_link)
 
@@ -147,8 +145,9 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
   #### Wander's API Test Cases
 
 - [Register form - US-05](https://docs.google.com/spreadsheets/d/1KCr5aWQcLDJof_JgRo6rBNYi3-tM5bJU/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
+
 - [Confirm register - US-09](https://docs.google.com/spreadsheets/d/1-ZhoO7fkj5-WsLPUY5_4z96BoOU4ynHW/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
-- [Filters - US-01](https://docs.google.com/spreadsheets/d/1RaPMeIPdyoDEm6-ly3KvBaAAIlPRFW9e/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
+
 
   #### Wander's API Bug Reports
 
@@ -160,24 +159,6 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 
 - With the Developer's tools of **Chrome** I checked all the calls from the web site to the API's to see wich ones weren't working. Check the report [here](https://drive.google.com/file/d/1PFNdH5g8U_C7PtSCjvtsKPaTHwjPn4Zb/view?usp=drive_link)
 
-  
-### 💼 My QA Portfolio on Notion:
-
-Check all my QA projects in detail [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa)
-
-
-## Web Development
-
-### The Magic Chest Project (This project is in Spanish)
-
-- This dinamic e-commerce is built up with **PHP**, **MySQL** and **Bootstrap**. It was an academic project for **The Da Vinci School of Art**:
-
-  See this project [here](https://drive.google.com/file/d/1W1eP4aQq0VuMd4gqQ2WSOvDDxDfj0W84/view)
-
-### 💼 My Web Development Portfolio on Notion:
-
-Check all my Web Development projects [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827)
-  
 
 ## 🎓 Courses and Certificates:
 
@@ -192,7 +173,7 @@ During the internship I worked in a multicultural team, developed new soft skill
 - **60 bugs identified, reported and solved**
 - **50 improvement suggestions**
   
- ## Certificates
+ ### Certificates
 
   ###  OOP with JavaScript for Testers (2025) 
 
@@ -241,8 +222,6 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
  - Programming languages: Javascript, Python 🐍
  -  SQL and Data Bases
  -  Security of web aplications
- -  Web Development
-
 
 
 ## 📫 How to reach me:
@@ -252,9 +231,9 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
 
 Click [here](linkedin.com/in/mariana-luduena-qa-tester-engineer/)
 
-### 🔎 My Web Sites:
+### 💼 My QA Portfolio on Notion:
 
-Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my QA web site.
+Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my Portfolio.
 
 
 ### My Mail:
