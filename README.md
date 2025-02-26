@@ -23,14 +23,8 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 
  ## Skills:
 
-### Manual Testing:
 
-- Exploratory testing
-
--  Functional and usability testing of web applications
-  
-
-### Automation Testing:
+ ### Automation Testing:
 
 - **Cypress (learning in progress)**
   
@@ -41,7 +35,13 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 - **API Automation with Postman** 
   
 - Automated tests and **DOM manipulation with Javascript and DevTools**
-  
+
+### Manual Testing:
+
+- Exploratory testing
+
+-  Functional and usability testing of web applications
+    
 
 ### Test Documentation:
 
