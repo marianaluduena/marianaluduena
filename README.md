@@ -5,6 +5,7 @@
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Examples of my work](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#examples-of-my-work)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
+- [Archievements]()
 - [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
 - [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
 - [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#communities-i-belong-to)
@@ -12,13 +13,11 @@
 
 ## Bio
 
-👋 Hi, nice to meet you! I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites.
+👋 Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites.
 
 Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
 
-At present, I am enhancing my understanding of **testing methods** and **tools** through online courses, and by evaluating web applications designed for educational purposes. During the testing process I use **Jira** to get familiar with it, how it works, how **agile methodologies** work, and as a simulation of a real daily work environment.
-
- I would be thrilled to apply what I've learned to assess a live product and acquire practical experience. 
+At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. ALso, I write articles for a testing blog called [Tester Testarudo](https://testertestarudo.com/).
  
  Over the next two years, my **goal** is to advance to a **mid-level software tester**!
 
@@ -68,8 +67,8 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ### Programming Languages:
 
-- Javascript
-- Node.js
+- **Javascript**
+- **Node.js**
 
 
 ### Web Development
@@ -186,15 +185,14 @@ Check all my Web Development projects [here](https://mariana-luduena-qa-tester.n
 
 During the internship I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project.
 
-#### Archievements
+#### Archievements during the training
 
 - **90% Initial test coverage reached during Sprint 1**
 - **150 Test Cases were executed, covering the core functionalities of the main features**
 - **60 bugs identified, reported and solved**
 - **50 improvement suggestions**
-- **Content creator and writer for the [Tester Testarudo](https://testertestarudo.com/) blog**
   
- #### Certificates
+ ## Certificates
 
   ###  OOP with JavaScript for Testers (2025) 
 
@@ -231,7 +229,9 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
 - [Web Development](https://drive.google.com/file/d/1Sf-MCc0LeKWbkNy_2S9cVCYixK19VpA6/view?usp=drive_link)
 
 
+## Archievements
 
+- **Content creator and writer for the [Tester Testarudo](https://testertestarudo.com/) blog**
   
 
 ## 👀 I’m interested in:
