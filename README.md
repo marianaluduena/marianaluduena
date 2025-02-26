@@ -5,7 +5,7 @@
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Examples of my work](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#examples-of-my-work)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
-- [Archievements]()
+- [Achievements]()
 - [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
 - [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
 - [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#communities-i-belong-to)
@@ -176,7 +176,7 @@ See the backlog in Jira of this project [here](https://drive.google.com/file/d/1
 
 During the internship I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project.
 
-#### Archievements during the training
+#### Achievements during the training
 
 - **90% Initial test coverage reached during Sprint 1**
 - **150 Test Cases were executed, covering the core functionalities of the main features**
@@ -220,7 +220,7 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
 - [Web Development](https://drive.google.com/file/d/1Sf-MCc0LeKWbkNy_2S9cVCYixK19VpA6/view?usp=drive_link)
 
 
-## Archievements
+## Achievements
 
 - **Content creator and writer for the [Tester Testarudo](https://testertestarudo.com/) blog**
   
