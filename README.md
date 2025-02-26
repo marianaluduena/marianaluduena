@@ -33,13 +33,13 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 
 ### Automation Testing:
 
+- **Cypress (learning in progress)**
+  
+- **Playwright (learning in porgress)**
+  
 - **OOP Javascript**
   
 - **API Automation with Postman** 
-  
-- **Cypress (in progress)**
-  
-- **Web Testing with Playwright (in porgress)**
   
 - Automated tests and **DOM manipulation with Javascript and DevTools**
   
