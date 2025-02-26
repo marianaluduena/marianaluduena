@@ -69,8 +69,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 ### Programming Languages:
 
 - Javascript
-- PHP
-- MySQL
+- Node.js
 
 
 ### Web Development
@@ -79,7 +78,7 @@ At present, I am enhancing my understanding of **testing methods** and **tools**
 - SASS
 - Responsive Design
 - Mobile first
-- React.js
+
 
   ### Others:
 
@@ -197,20 +196,25 @@ During the internship I worked in a multicultural team, developed new soft skill
   
  #### Certificates
 
- ###  QA Tester in Igrowker IT Junior Internship
+  ###  OOP with JavaScript for Testers (2025) 
+
+  - [OOP with JavaScript for Testers](https://drive.google.com/file/d/1XAz2tL7Rgd0smLAfW_5YKDd0XqcYazss/view?usp=drive_link)
+
+ ###  QA Tester in Igrowker IT Junior Internship (2024) 
 
  During this training I worked with developers, PM, fellow testers and DevOps, doing both manual testing and automation testing (for the API in Postman).
  
-- [QA Tester](https://drive.google.com/file/d/1mWc1587LrZpHmMZAqgERTrIpNSr_x5XP/view?usp=drive_link)
+- [QA Tester](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
 
 ### Agile Project Management with Jira (2024) 
 
  During this course I've learned how to track issues and bugs with **Jira**, how it works, about **sprints** and **Scrum** methodology.
 
-- [Agile Project Management with Jira certificate](https://www.institutoweb.com.ar/certificadosjira/docs/certificado_Ludue%c3%b1a_Mariana.pdf)
+- [Agile Project Management with Jira certificate](https://drive.google.com/file/d/1eXI9-rCC7teLgtA0Ky01DlR9w3RvTy4K/view?usp=drive_link)
 
 ### Postman API Fundamentals Student Expert (2024)
 
+This was an introductory API course to know about the GET, POST, PUT/PATCH, DELETE methods and getting hands-on-experience by using an API and manipulating the endpoints. 
 
 - [Postman API Fundamentals Student Expert certification](https://drive.google.com/file/d/1HpHq_4DPDo1p1v8_GvmlkOGP0TtcdsUL/view?usp=sharing)
 
@@ -218,13 +222,13 @@ During the internship I worked in a multicultural team, developed new soft skill
   
   An introductory course where I had my first hands-of-experience while testing a real web site. I learned about software life cycle, types of testing, types of bugs and how to report them, and abot APIs.
   
-- [QA Manual Testing](https://www.coderhouse.com/ar/certificados/65ef52a28105b28e71efd905?lang=es)
+- [QA Manual Testing](https://drive.google.com/file/d/1qogrs4m0pSqQvl8xOyxM9_etQM9ZNEge/view?usp=drive_link)
 
   ### Web Development (2022)
 
   On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
   
-- [Web Development](https://www.coderhouse.com/ar/certificados/621e9a25d075ef0025df7eb3?lang=es)
+- [Web Development](https://drive.google.com/file/d/1Sf-MCc0LeKWbkNy_2S9cVCYixK19VpA6/view?usp=drive_link)
 
 
 
@@ -246,19 +250,16 @@ During the internship I worked in a multicultural team, developed new soft skill
 
 ### 💻 My LinkedIn: 
 
-Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
+Click [here](linkedin.com/in/mariana-luduena-qa-tester-engineer/)
 
 ### 🔎 My Web Sites:
 
 Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my QA web site.
 
-Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-Front-end-Web-Developer-e9468dc0933f4e989eb9dfd918896827) to visit my Web Development web site.
-
 
 ### My Mail:
 
 marianabelenluduena@gmail.com
-
 
 
 ## Communities I belong to:
