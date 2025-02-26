@@ -239,7 +239,7 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
 
 ### 💻 My LinkedIn: 
 
-Click [here](linkedin.com/in/mariana-luduena-qa-tester-engineer/)
+Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
 
 ### 💼 My QA Portfolio on Notion:
 
