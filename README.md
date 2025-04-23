@@ -54,7 +54,7 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 
 ### Agile Methodologies:
 
-- Familiar with **Srum** and **Kanban**.
+- Familiar with **Scrum** and **Kanban**.
 
 
 ### API Testing:
