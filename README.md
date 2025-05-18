@@ -1,6 +1,7 @@
 # My Profile
 
-- [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio) 
+- [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
+- [Work experience]()
 - [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
@@ -17,9 +18,40 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 🤝 Let's connect in [LinkedIn!](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) 
 
-💼 My Portfolio on Notion:
+💼 [My Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) 
 
-Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my Portfolio.
+## Work experience:
+
+### Foo Talent Group Training (2025)
+
+
+### Igrowker Junior IT Training (2025) 
+
+
+
+#### Achievements during the training
+
+- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
+- **Detected issues in the project application's barcode recognition.**
+- **Demonstrated adaptability to work in an agile environment.**
+- **Certified Agile Digital Product Practicioner Certifcate** earned.
+ 
+- [Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)
+
+
+### Igrowker Junior IT Training (2024) 
+
+During this training I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
+
+#### Achievements during the training
+
+- **90% Initial test coverage reached during Sprint 1**
+- **150 Test Cases were executed, covering the core functionalities of the main features**
+- **60 bugs identified, reported and solved**
+- **50 improvement suggestions**
+ 
+- [Certificate](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
+
 
  ## Skills:
 
@@ -77,7 +109,7 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 
   ### Others:
 
-  - Git and GitHub.
+ - Git and GitHub.
   
 
  ## 🛠️ Tools:
@@ -96,28 +128,13 @@ Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Te
 
 ## 🎓 Courses and Certificates:
 
-### QA Tester - Igrowker Junior IT Training (Internship- 2024) 
+### Automation Web Testing with Playwright (2025)
 
-During the internship I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project.
+- [Automation Web Testing with Playwright Certificate](https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
 
-#### Achievements during the training
-
-- **90% Initial test coverage reached during Sprint 1**
-- **150 Test Cases were executed, covering the core functionalities of the main features**
-- **60 bugs identified, reported and solved**
-- **50 improvement suggestions**
-  
- ### Certificates
-
-  ###  OOP with JavaScript for Testers (2025) 
+###  OOP with JavaScript for Testers (2025) 
 
   - [OOP with JavaScript for Testers](https://drive.google.com/file/d/1XAz2tL7Rgd0smLAfW_5YKDd0XqcYazss/view?usp=drive_link)
-
- ###  QA Tester in Igrowker IT Junior Internship (2024) 
-
- During this training I worked with developers, PM, fellow testers and DevOps, doing both manual testing and automation testing (for the API in Postman).
- 
-- [QA Tester](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
 
 ### Agile Project Management with Jira (2024) 
 
