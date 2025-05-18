@@ -27,9 +27,11 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Igrowker Junior IT Training (2025) 
 
+This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to **provide guidance**. I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
+During this training, we focused more on backend testing than frontend, due to **frequent changes in plans** and the need to learn new technologies introduced by the backend team. **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
+The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving our project, Beetrack, even when this training is over!**
 
-
-#### Achievements during the training
+#### Achievements during this training
 
 - **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
 - **Detected issues in the project application's barcode recognition.**
@@ -43,7 +45,7 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 During this training I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
 
-#### Achievements during the training
+#### Achievements during this training
 
 - **90% Initial test coverage reached during Sprint 1**
 - **150 Test Cases were executed, covering the core functionalities of the main features**
