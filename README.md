@@ -7,9 +7,9 @@
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
-## Bio
+## 👩 Bio
 
-👋 Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
+👋Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
 
 At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. 
 
@@ -17,17 +17,17 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 🤝 Let's connect in [LinkedIn!](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) 
 
-💼 [My Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) 
+💼 See examples of my with in [my Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) 
 
-## Work experience:
+## 🧱 Work experience:
 
-### Foo Talent Group Training (2025)
+### Foo Talent Group Training (2025) ⚕️🩺
 
 
-### Igrowker Junior IT Training (2025) 
+### Igrowker Junior IT Training (2025) 📈📊
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to **provide guidance**. I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
-During this training, we focused more on backend testing than frontend, due to **frequent changes in plans** and the need to learn new technologies introduced by the backend team. **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
+During this project, we focused more on backend testing than frontend, due to **frequent changes in plans** and the need to learn new technologies introduced by the backend team. **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving our project, Beetrack, even when this training is over!**
 
 #### Achievements during this training
@@ -40,9 +40,10 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 - [Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)
 
 
-### Igrowker Junior IT Training (2024) 
+### Igrowker Junior IT Training (2024) 🏖️🏄‍♀️
 
-During this training I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
+During this training I worked in a multicultural team, developed new soft skills to communicate the issues finded, give feedback and offer improvement suggestions to the project Wander, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
+My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports** from the final user perspective (post regression testing). So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
 
 #### Achievements during this training
 
@@ -54,7 +55,7 @@ During this training I worked in a multicultural team, developed new soft skills
 - [Certificate](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
 
 
- ## Skills:
+ ## 🎯 Skills:
 
  ### Automation Testing:
 
