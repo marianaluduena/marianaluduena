@@ -3,26 +3,25 @@
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio) 
 - [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
-- [Examples of my work](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#examples-of-my-work)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 - [Achievements](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#achievements)
-- [I'm interested in...](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-im-interested-in)
-- [How to reach me](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-how-to-reach-me)
-- [Communities I belong to](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#communities-i-belong-to)
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
 ## Bio
 
-👋 Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites.
+👋 Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
 
-Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. This led me to take a course in QA Manual Testing, where I delved into the **software life cycle**, **designed** and **executed test cases**, **reported discovered bugs**, learned about **different types of issues**, and **REST** and **SOAP** **APIs**.
+At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. 
 
-At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. Also, I write articles for a testing blog called [Tester Testarudo](https://testertestarudo.com/).
- 
- Over the next two years, my **goal** is to advance to a **mid-level software tester**!
+Over the next two years, my **goal** is to advance to a **mid-level software tester**!
+
+🤝 Let's connect in [LinkedIn!](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) 
+
+💼 My Portfolio on Notion:
+
+Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my Portfolio.
 
  ## Skills:
-
 
  ### Automation Testing:
 
@@ -60,10 +59,8 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 ### API Testing:
 
 - Familiar with **Postman**
-- Know how to manipulate requests
-- Knowleadge with GET, POST, PATCH, DELETE
 - Familiar with **API Documentation in Swagger**
-- **Gained experience through manual & automation testing.**
+- **Gained experience through manual & automation testing in real projects**
 
 ### Programming Languages:
 
@@ -73,10 +70,9 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
 
 ### Web Development
 
-- Bootstrap
-- SASS
 - Responsive Design
 - Mobile first
+- Bootstrap
 
 
   ### Others:
@@ -90,85 +86,13 @@ At present, I'm learning Automation with **Playwright** and **Cypress** through 
     
   - **Agile Test and X Ray**: I've learned how to **create manual test cases**, **add preconditions**, **write test plans** and **bug reports**.
     
-  - **ScreenToGif**: my favorite tool to **document evidence**! (More **visual**, more **useful** than just an image to ilustrate issues, **easy** to use, **free**, and **lighter than videos**!)
+  - **Loom**: my favorite tool to **document evidence**.
     
   - **Postman**: I've gained experience through manual testing of public APIs used for educational purposes.
     
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
 
   - **JMeter** 
-
-
-## Examples of my work:
-
-## QA Automation Testing
-
-### Automation with OOP JavaScript (2025)
-
-- [js-oop-automation-testing-book-cart-project](https://github.com/marianaluduena/js-oop-automation-testing-book-cart-project) 
-
-###  Automation with just JavaScript and DevTools (2025)
-
-- [JS-Automation-Testing](https://github.com/marianaluduena/JS-automation-testing) is a small project where **all the tests are automated directly in the browser's console with Javascript by using the DevTools**.
-
-## QA Manual Testing
-
-### Test Cases
-
-#### Wander Project - Igrowker Junior IT Training Internship (2024)
-
-- [Wander Project](https://drive.google.com/drive/folders/1eC-L5fw5psB7-HZ_VXz-wtCSiWn6Osgz?usp=drive_link) Wander is a touristic web-app that connects tourists with local residents offering unique traveling experiences. Wander was created during an internship.
-
-#### La Revistería Cómics Project (2024)
-
-- [La Revistería Cómics Project](https://www.larevisteriacomics.com/) is a real web site used in my very first QA Manual testing course (in Spanish). The test cases were written using an Excel sheet document. Check all the [test cases from the project here](https://docs.google.com/spreadsheets/d/1pX23W9WVULyYPEXCPYzSnAv6rX2pQjMs/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
-
-### Bug reports and Agile methodologies
-
-#### Wander Project
-
-- Check all Wander project's bugs reported (in Spanish):
-  
-- [Register form - US-05](https://drive.google.com/drive/folders/1Vgb74mkqOPq16VCpnY8LzYA9fx9HYpfp?usp=drive_link)
-- [Confirm register - US-09](https://drive.google.com/drive/folders/1S4OPeq2SQ7AN0wkpOLgVXyx3igz0zRKm?usp=drive_link)
-- [Filters - US-01](https://drive.google.com/drive/folders/1lx2LtJhoKqTD2P_O2ts-eMylkTTpMH_-?usp=drive_link)
-- [Search Bar - US-10](https://drive.google.com/drive/folders/17RlQcs_IKggMcxqc3phBRq-gFHrokScV?usp=drive_link) 
-
-#### La Revistería Cómics Project
-
-- Check all the bugs reported from this project (in Spanish) [here](https://docs.google.com/document/d/17mUoNXPC3tC_qVBUP4cWvXPTDJCRAGHm/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
-
-- Check a list of the most critical bugs reported in **Jira**:
-
-  1- [Error 500](https://docs.google.com/document/d/1J5_0djp9qJ76qk3m5EvpcOfqaXSpjiEQ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
-
-  2- [Sending the contact form with special characters](https://docs.google.com/document/d/1JjJ5EJRVI1xMIRFnTXoSS6PoE5nw7EzJ/edit?usp=sharing&ouid=116604276263108793815&rtpof=true&sd=true)
-
-See the backlog in Jira of this project [here](https://drive.google.com/file/d/1vHLXpMnhJYtGjMqQUTVlnbsmtTOpSyjh/view?usp=drive_link)
-
-### API Testing
-
-#### Wander Project
-
-- The Wander's Node API was tested both manually and with automated tests by using Postman. I learned how to write API test cases with ChatGTP's help.
-
-  #### Wander's API Test Cases
-
-- [Register form - US-05](https://docs.google.com/spreadsheets/d/1KCr5aWQcLDJof_JgRo6rBNYi3-tM5bJU/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
-
-- [Confirm register - US-09](https://docs.google.com/spreadsheets/d/1-ZhoO7fkj5-WsLPUY5_4z96BoOU4ynHW/edit?usp=drive_link&ouid=116604276263108793815&rtpof=true&sd=true)
-
-
-  #### Wander's API Bug Reports
-
-- [Register form - US-05](https://drive.google.com/drive/folders/14UlxUpS8l8iJifwGNbVmkh3PjHTgVlgI?usp=drive_link)
-- [Confirm register - US-09](https://drive.google.com/drive/folders/1lcLMn4TsGJGb98z5es9NbOvxzRHtfm9H?usp=drive_link)
-
-
-#### La Revistería Cómics Project:
-
-- With the Developer's tools of **Chrome** I checked all the calls from the web site to the API's to see wich ones weren't working. Check the report [here](https://drive.google.com/file/d/1PFNdH5g8U_C7PtSCjvtsKPaTHwjPn4Zb/view?usp=drive_link)
-
 
 ## 🎓 Courses and Certificates:
 
@@ -218,49 +142,6 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
   On this course I've made my first web site with HTML5, CSS, SASS and Bootstrap. I've learned about responsive design, Flexbox and Grid.
   
 - [Web Development](https://drive.google.com/file/d/1Sf-MCc0LeKWbkNy_2S9cVCYixK19VpA6/view?usp=drive_link)
-
-
-## Achievements
-
-- **Content creator and writer for the [Tester Testarudo](https://testertestarudo.com/) blog**
-  
-
-## 👀 I’m interested in:
-
- - QA Testing (Manual and Automation)
- - API Testing
- - Programming languages: Javascript, Python 🐍
- -  SQL and Data Bases
- -  Security of web aplications
-
-
-## 📫 How to reach me:
-
-
-### 💻 My LinkedIn: 
-
-Click [here](https://www.linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
-
-### 💼 My QA Portfolio on Notion:
-
-Click [here](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) to visit my Portfolio.
-
-
-### My Mail:
-
-marianabelenluduena@gmail.com
-
-
-## Communities I belong to:
-
-
-  - **Tester Testarudo** (In Spanish): an online free testing courses academy that's growing, and I was invited to write articles about software testing. Check the website [here](testertestarudo.com). 
-
-- **Frontend Café** (In Spanish): It's a HUGE online community that involves Web Developers, UI / UX Designers, QA testers, Mobile, Hardware, Data Science, etc, Here we share resources to learn, courses, books, podcasts, study groups and much more. Point is: we help each other! Join us [here!](https://frontend.cafe/)
-
-
-- **Free Range Testers** (In Spanish): It's a QA online community with online courses in Udemy, resourcers, a blog and more. Check the website [here](https://www.freerangetesters.com/)
-
 
 
 ## ✨🪄Fun facts: 
