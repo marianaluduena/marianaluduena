@@ -7,7 +7,7 @@
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
-## 👩 Bio
+## Bio
 
 👋Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
 
@@ -23,6 +23,7 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Foo Talent Group Training (2025) ⚕️🩺
 
+I was asigned to this AURA project, a medical web service, when the it was already started. During this training I've had to learn the documentation, user stories and requirements quickly. I've learned to do smoke tests, see redirections through the Dev Tool's console and  
 
 ### Igrowker Junior IT Training (2025) 📈📊
 
@@ -74,7 +75,15 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 - Exploratory testing
 
 -  Functional and usability testing of web applications
+  
+-  Regression testing
     
+
+### API Testing:
+
+- Familiar with **Postman**
+- Familiar with **API Documentation in Swagger**
+- **Gained experience through manual & automation testing in real projects**
 
 ### Test Documentation:
 
@@ -82,19 +91,13 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 
 - Familiar writing comprehensive bug reports with the steps to replicate the issue.
 
-- Documentation of **evidence** with **ScreenToGif**.
+- Documentation of **evidence** with **Loom**.
 
 
 ### Agile Methodologies:
 
 - Familiar with **Scrum** and **Kanban**.
 
-
-### API Testing:
-
-- Familiar with **Postman**
-- Familiar with **API Documentation in Swagger**
-- **Gained experience through manual & automation testing in real projects**
 
 ### Programming Languages:
 
@@ -111,7 +114,7 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 
   ### Others:
 
- - Git and GitHub.
+ - Git.
   
 
  ## 🛠️ Tools:
