@@ -1,11 +1,10 @@
 # My Profile
 
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
-- [Work experience]()
+- [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#work-experience)
 - [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
-- [Achievements](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#achievements)
 - [Fun facts!](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#fun-facts)
 
 ## Bio
