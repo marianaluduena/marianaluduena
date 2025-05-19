@@ -1,5 +1,18 @@
-# My Profile
 
+<h1> Mariana Ludueña: QA Tester
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ 
+  
+<div align="center">
+
+<div>
+<img src="https://github.com/user-attachments/assets/fee3cadc-2ed9-4883-a3b7-f8da2801f1cf" alt=""/>
+</div>
+ </div>
+
+## Table of contents
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
 - [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#work-experience)
 - [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
@@ -9,7 +22,7 @@
 
 ## Bio
 
-👋Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program, and front end basic technologies by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
+👋Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
 
 At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. 
 
