@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**.
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
@@ -67,9 +67,8 @@ ________________________________________________________________________________
 <img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="700" padding="250px" /> 
 </div>
 
-This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
-During this project, **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
+This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
@@ -85,7 +84,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
 
-- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a **Web App** created during 4 weeks in my **1st IT professional training programm** in **Igrowker**.
   
 - **Technologies:** **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
   
