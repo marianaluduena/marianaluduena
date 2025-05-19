@@ -40,15 +40,23 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Foo Talent Group Training (2025) - AURA ⚕️🩺
 
+- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**.
+  
+- **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
+  
+- **Skills:** **Exploratory testing**, **API testing**, **regression testing**,, **Smoke testing**
+  
+- **Link:** **[AURA Project](#)**
 
+  
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-- Description: QA Manual and Automation analisys of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
   
-- Technologies: **Postman**, **DevTools**, **ChatGPT** 
+- **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
-- Skills: **Test plan**, **exploratory testing**, **API testing**, **regression testing**
+- **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
   
 - **Link:** **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
 
@@ -61,7 +69,7 @@ During this project, **I adapted by working with the tools available—mainly th
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
-#### Achievements during this training
+### Achievements during this training
 
 - **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
 - **Detected issues in the project application's barcode recognition.**
@@ -73,11 +81,11 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
 
-- Description: QA Manual and Automation analisys of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
   
-- Technologies: **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
+- **Technologies:** **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
   
-- Skills: **Test plan**, **exploratory testing**, **API testing**, **regression testing**
+- **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
   
 - **Link:** **[Wander Project](#)**
 
@@ -87,7 +95,7 @@ During this project I worked in a multicultural team to build **Wander**, a tour
 
 My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
 
-#### Achievements during this training
+### Achievements during this training
 
 - **150 Test Cases were executed, covering the core functionalities of the main features**
 - **60 bugs identified**
