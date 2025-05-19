@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 ### Sumary: 📚
 
-<div align="center">
+<div align="center" padding= 250>
 <img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="700" /> 
 </div>
 
