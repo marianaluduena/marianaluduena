@@ -64,7 +64,7 @@ ________________________________________________________________________________
 ### Sumary: 📚
 
 <div align="center">
-<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="500" /> 
+<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="700" /> 
 </div>
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
