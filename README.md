@@ -64,7 +64,7 @@ ________________________________________________________________________________
 ### Sumary: 📚
 
 <div align="center">
-<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" max-width= "850px" /> 
+<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="500" height="500" /> 
 </div>
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
@@ -107,6 +107,7 @@ My **greatest challenge** was to learn **how to write API test cases and explora
  
 - [Certificate](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
 
+__________________________________________________________________________________________________________________
 
  ## 🎯 Skills:
 
@@ -131,14 +132,15 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 
 ### API Testing:
 
-- **Postman**
-- **API Documentation in Swagger**
+- **Manual and Automation Testing** with **Postman**
+- **API Documentation** in **Swagger**
 
 
 ### Agile Methodologies:
 
 - Familiar with **Scrum** and **Kanban**.
 
+__________________________________________________________________________________________________________________
 
  ## 🛠️ Tools:
 
@@ -153,6 +155,8 @@ My **greatest challenge** was to learn **how to write API test cases and explora
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
 
   - **JMeter** 
+
+__________________________________________________________________________________________________________________
 
 ## 🎓 Courses and Certificates:
 
@@ -188,6 +192,7 @@ This was an introductory API course to know about the GET, POST, PUT/PATCH, DELE
   
 - [Web Development](https://drive.google.com/file/d/1Sf-MCc0LeKWbkNy_2S9cVCYixK19VpA6/view?usp=drive_link)
 
+__________________________________________________________________________________________________________________
 
 ## ✨🪄Fun facts: 
 
