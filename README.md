@@ -34,7 +34,7 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
   
 - 📧 **My E-Mail:** marianabelenluduena@gmail.com
 
-
+__________________________________________________________________________________________________________________
 
 ## 🧱 Work experience:
 
@@ -63,8 +63,8 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Sumary: 📚
 
-<div>
-<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" /> 
+<div align="center">
+<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" max-width= "850px" /> 
 </div>
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
