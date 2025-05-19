@@ -1,5 +1,5 @@
 
-<h1> Mariana Ludueña: QA Tester
+<h1> Welcome to my profile!
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -23,9 +23,8 @@
 ## Bio
 
 Hi, nice to meet you! I'm a QA Tester from Argentina with **1 and a half year of experience** in **functional**, **exploratory**, **API** and **regression testing.** 
-I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. 
 
-At present, I'm learning Automation with **Playwright** through online courses, and putting my skills to the test by doing my own personal projects and professional IT trainings. 
+I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright** through online courses, and putting my skills to the test by doing my own **personal projects and professional IT trainings.** 
 
 Over the next two years, my **goal** is to advance to a **mid-level software tester**!
 
@@ -41,11 +40,16 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Foo Talent Group Training (2025) - AURA ⚕️🩺
 
-I was asigned to this AURA project, a medical web service, when the it was already started. During this training I've had to learn the documentation, user stories and requirements quickly. I've learned to do smoke tests, see redirections through the Dev Tool's console and  
+
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to **provide guidance**. I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
+Descripción: Análisis exhaustivo de QA manual (plan de pruebas, casos de prueba, reporte de bugs simulados) para una aplicación demo de e-commerce.
+Tecnologías/Habilidades: Diseño de Pruebas, Ejecución de Pruebas, Reporte de Defectos, Pruebas Exploratorias.
+Link: https://github.com/LauraPerezQA/analisis-qa-tienda-online-demo (Este es un enlace de ejemplo, la persona lo reemplazaría con su repo real)
+
+
+This time, I took on the role of **QA Lead for my team** I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
 During this project **(Beetrack)**, **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
 
@@ -53,7 +57,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 #### Achievements during this training
 
-- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
+- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening, drawing on my experience from the previous training to provide guidance**
 - **Detected issues in the project application's barcode recognition.**
 - **Demonstrated adaptability to work in an agile environment.**
 - **Certified Agile Digital Product Practicioner Certifcate** earned.
@@ -69,9 +73,8 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 
 #### Achievements during this training
 
-- **90% Initial test coverage reached during Sprint 1**
 - **150 Test Cases were executed, covering the core functionalities of the main features**
-- **60 bugs identified, reported and solved**
+- **60 bugs identified**
 - **50 improvement suggestions**
  
 - [Certificate](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
@@ -100,41 +103,14 @@ My **greatest challenge** was to learn **how to write API test cases and explora
 
 ### API Testing:
 
-- Familiar with **Postman**
-- Familiar with **API Documentation in Swagger**
-- **Gained experience through manual & automation testing in real projects**
-
-### Test Documentation:
-
-- Create manual test cases, preconditions, test plans, and test execution with **Agile Test** and **X Ray**.
-
-- Familiar writing comprehensive bug reports with the steps to replicate the issue.
-
-- Documentation of **evidence** with **Loom**.
+- **Postman**
+- **API Documentation in Swagger**
 
 
 ### Agile Methodologies:
 
 - Familiar with **Scrum** and **Kanban**.
 
-
-### Programming Languages:
-
-- **Javascript**
-- **Node.js**
-
-
-### Web Development
-
-- Responsive Design
-- Mobile first
-- Bootstrap
-
-
-  ### Others:
-
- - Git.
-  
 
  ## 🛠️ Tools:
 
