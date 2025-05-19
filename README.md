@@ -61,7 +61,10 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 - **Link:** **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
 
 
-### Sumary:
+### Sumary: 📚
+
+<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" /> 
+
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
@@ -69,7 +72,7 @@ During this project, **I adapted by working with the tools available—mainly th
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
-#### Achievements during this training
+### Achievements during this training 🏆
 
 - **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
 - **Detected issues in the project application's barcode recognition.**
@@ -89,13 +92,13 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
   
 - **Link:** **[Wander Project](#)**
 
-### Sumary:
+### Sumary: 📚
 
 During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
 
 My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
 
-#### Achievements during this training
+### Achievements during this training 🏆
 
 - **150 Test Cases were executed, covering the core functionalities of the main features**
 - **60 bugs identified**
