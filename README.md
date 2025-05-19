@@ -22,7 +22,7 @@
 
 ## Bio
 
-Hi, nice to meet you! I'm a QA Tester from Argentina with **1 and a half year of experience** in **functional**, **exploratory**, **API** and **regression testing.** 
+Hi, nice to meet you! I'm a **QA Tester** from **Argentina** with **1 and a half year of experience** in **functional**, **exploratory**, **API** and **regression testing.** 
 
 I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright** through online courses, and putting my skills to the test by doing my own **personal projects and professional IT trainings.** 
 
@@ -44,20 +44,26 @@ Over the next two years, my **goal** is to advance to a **mid-level software tes
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-Descripción: Análisis exhaustivo de QA manual (plan de pruebas, casos de prueba, reporte de bugs simulados) para una aplicación demo de e-commerce.
-Tecnologías/Habilidades: Diseño de Pruebas, Ejecución de Pruebas, Reporte de Defectos, Pruebas Exploratorias.
-Link: https://github.com/LauraPerezQA/analisis-qa-tienda-online-demo (Este es un enlace de ejemplo, la persona lo reemplazaría con su repo real)
+- Description: QA Manual and Automation analisys of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+  
+- Technologies: **Postman**, **DevTools**, **ChatGPT** 
+  
+- Skills: **Test plan**, **exploratory testing**, **API testing**, **regression testing**
+  
+- **Link:** **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
 
 
-This time, I took on the role of **QA Lead for my team** I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
+#### Sumary:
 
-During this project **(Beetrack)**, **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
+This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
+
+During this project, **I adapted by working with the tools available—mainly the API—to ensure that the testing process continued without interruptions.**
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
 #### Achievements during this training
 
-- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening, drawing on my experience from the previous training to provide guidance**
+- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
 - **Detected issues in the project application's barcode recognition.**
 - **Demonstrated adaptability to work in an agile environment.**
 - **Certified Agile Digital Product Practicioner Certifcate** earned.
@@ -66,6 +72,16 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
+
+- Description: QA Manual and Automation analisys of a SaaS (Software as a Service) application created during 4 weeks in my 2nd IT professional training programm in **Igrowker**.
+  
+- Technologies: **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
+  
+- Skills: **Test plan**, **exploratory testing**, **API testing**, **regression testing**
+  
+- **Link:** **[Wander Project](#)**
+
+#### Sumary:
 
 During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
 
