@@ -8,7 +8,7 @@
 <div align="center">
 
 <div>
-<img src =https://github.com/user-attachments/assets/2a6654c2-94cf-4533-93bf-feabfb0a0512 alt ="">
+<img src =https://github.com/user-attachments/assets/2a6654c2-94cf-4533-93bf-feabfb0a0512 alt ="Desk with a cup of coffee and research stuff">
 </div>!
  </div>
 
