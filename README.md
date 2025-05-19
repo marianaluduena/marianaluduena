@@ -14,7 +14,7 @@
 
 ## Table of contents
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
-- [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#work-experience)
+- [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-work-experience)
 - [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#skills)
 - [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
@@ -22,15 +22,20 @@
 
 ## Bio
 
-👋Hi, nice to meet you! I'm from Argentina, and I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
+Hi, nice to meet you! I'm a QA Tester from Argentina with 1 and a half year of experience  in functional, exploratory, API and regression testing. 
+I define myself as a **self-taught** person with a strong **curiosity** about how things work. I started learning how to program by doing my own web sites. Seeking to explore other areas of the IT sector, I became interested in **software testing** and ensuring its highest possible quality. 
 
-At present, I'm learning Automation with **Playwright** and **Cypress** through online courses, and putting my skills to the test by doing my own personal projects. 
+At present, I'm learning Automation with **Playwright** through online courses, and putting my skills to the test by doing my own personal projects and professional IT trainings. 
 
 Over the next two years, my **goal** is to advance to a **mid-level software tester**!
 
-🤝 Let's connect in [LinkedIn!](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/) 
+📫 How to reach me:
 
-💼 See examples of my with in [my Portfolio](https://mariana-luduena-qa-tester.notion.site/Mariana-Ludue-a-QA-Tester-74974d4fd1dc4af1ab672869471620aa) 
+- 🤝 See my profile in [LinkedIn](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)
+  
+- 📧 My E-Mail: marianabelenluduena@gmail.com
+
+
 
 ## 🧱 Work experience:
 
@@ -72,14 +77,12 @@ My **greatest challenge** was to learn **how to write API test cases and explora
  ## 🎯 Skills:
 
  ### Automation Testing:
-
-- **Cypress (learning in progress)**
+ 
+- **API Automation with Postman**
   
 - **Playwright (learning in porgress)**
   
 - **OOP Javascript**
-  
-- **API Automation with Postman** 
   
 - Automated tests and **DOM manipulation with Javascript and DevTools**
 
