@@ -70,7 +70,7 @@ ________________________________________________________________________________
   
 - **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
   
-- **Link:** **[Wander Project](#)**
+- **Link:** **[Wander Project](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
 
 __________________________________________________________________________________________________________________
 
