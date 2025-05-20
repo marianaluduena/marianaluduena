@@ -48,7 +48,7 @@ ________________________________________________________________________________
   
 - **Link:** **[AURA Project](#)**
 
-  
+  __________________________________________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
@@ -72,15 +72,7 @@ This time, I took on the role of **QA Lead for my team**, drawing on my experien
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
-### Achievements during this training 🏆
-
-- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
-- **Detected issues in the project application's barcode recognition.**
-- **Demonstrated adaptability to work in an agile environment.**
-- **Certified Agile Digital Product Practicioner Certifcate** earned.
- 
-- [Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)
-
+__________________________________________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
 
