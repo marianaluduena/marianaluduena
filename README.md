@@ -72,20 +72,6 @@ ________________________________________________________________________________
   
 - **Link:** **[Wander Project](#)**
 
-### Summary: 📚
-
-During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
-
-My **greatest challenge** was to learn **how to write API test cases and exploratory testing reports post regression testing** . So I learn all of it by using the help of **ChatGPT** just for **ideas and guidance**, but **never by doing copy-paste.**
-
-### Achievements during this training 🏆
-
-- **150 Test Cases were executed, covering the core functionalities of the main features**
-- **60 bugs identified**
-- **50 improvement suggestions**
- 
-- [Certificate](https://drive.google.com/file/d/19BNZ6kZMm3ZBbesiBhNNv0ptuaYTLP3U/view?usp=drive_link)
-
 __________________________________________________________________________________________________________________
 
  ## 🎯 Skills:
