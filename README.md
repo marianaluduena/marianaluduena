@@ -60,18 +60,6 @@ ________________________________________________________________________________
   
 - **Link:** **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
 
-
-### Sumary: 📚
-
-<div align="center" class="container" marging="50">
-<img src= "https://github.com/user-attachments/assets/942954c8-693f-41c1-acb7-6d39a76ab67e" alt= "Vista Beetrack menú" width="700" /> 
-</div>
-
-
-This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
-
-The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
-
 __________________________________________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
@@ -84,7 +72,7 @@ ________________________________________________________________________________
   
 - **Link:** **[Wander Project](#)**
 
-### Sumary: 📚
+### Summary: 📚
 
 During this project I worked in a multicultural team to build **Wander**, a touristic web app. I worked doing manual testing in the frontend, and manual and automation testing in the backend with **Postman.**
 
