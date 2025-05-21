@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 ### Foo Talent Group Training (2025) - AURA ⚕️🩺
 
-- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**.
+- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**. Please notice that **this project is in Spanish, and currently in progess.**.
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**. Please notice that **this project is in Spanish, but I translated the final quality report to English**.
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
 
-- **Description:** QA Manual and Automation analysis of a **Web App** created during 4 weeks in my **1st IT professional training programm** in **Igrowker**.
+- **Description:** QA Manual and Automation analysis of a **Web App** created during 4 weeks in my **1st IT professional training programm** in **Igrowker**. Please notice that **this project is in Spanish, but I translated the Test Plan and final quality report to English**.
   
 - **Technologies:** **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
   
