@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
 
-- **Description:** QA Manual and Automation analysis of a SaaS (Software as a Service) application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**. Please note that **this project is in Spanish, but I translated the final quality report to English**.
+- **Description:** QA Manual and Automation analysis of a **SaaS (Software as a Service)** application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**. Please note that **this project is in Spanish, but I translated the final quality report to English**.
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
