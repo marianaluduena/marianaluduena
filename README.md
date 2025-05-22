@@ -46,7 +46,7 @@ ________________________________________________________________________________
   
 - **Skills:** **Exploratory testing**, **API testing**, **regression testing**,, **Smoke testing**
   
-- **Link:** **[AURA Project](#)**
+- **Link:** **[AURA Project](https://github.com/marianaluduena/aura-professional-project)**
 
   __________________________________________________________________________________________________________________
 
