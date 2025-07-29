@@ -38,9 +38,21 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
+### Cypress Automation Exercise (2025) - Personal project
+
+- **Description: QA Automation test cases, use cases and exploratory testing.**
+  
+- **Technologies:** **Cypress**, **JavaScript**, **ChatGPT.**
+  
+- **Skills:** **Exploratory testing**, **Automation testing**, **use cases.**
+  
+- **Link:** **[Automation Exercise with Cypress](https://github.com/marianaluduena/cypress-automation-exercise)**
+
+ __________________________________________________________________________________________________________________
+
 ### Foo Talent Group Training (2025) - AURA ⚕️🩺
 
-- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**. Please note that **this project is in Spanish, and currently in progess.**
+- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**. Please note that **this project is in Spanish.**
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
