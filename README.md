@@ -22,9 +22,9 @@
 
 ## Bio
 
-Hi, nice to meet you! I'm a **QA Tester** from **Argentina** with **1 and a half year of experience** in **functional**, **exploratory**, **API** and **regression testing.** 
+Hi, nice to meet you! I'm a **QA Tester** from **Argentina** with **2 years of experience** in as a **QA tester.** 
 
-I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright** through online courses, and putting my skills to the test by doing my own **personal projects and professional IT trainings.** 
+I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright**, **Cypress**, **IA** and **AWS** through online courses, and putting my skills to the test by doing my own **personal projects and professional IT trainings.** 
 
 Over the next two years, my **goal** is to advance to a **mid-level software tester**!
 
@@ -42,9 +42,9 @@ ________________________________________________________________________________
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
-- **Technologies:** **Playwright**, **TypeScript**, **ChatGPT.**
+- **Technologies:** **Playwright**, **TypeScript**, **ChatGPT, Copilot**
   
-- **Skills:** **CI/CD**
+- **Skills:** **Automation, programming, CI/CD, IA**
 
 - **Link**: **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
 
@@ -54,7 +54,7 @@ ________________________________________________________________________________
   
 - **Technologies:** **Cypress**, **JavaScript**, **ChatGPT.**
   
-- **Skills:** **Exploratory testing**, **Automation testing**, **use cases.**
+- **Skills:** **Exploratory testing**, **Automation testing**, **programming**, **use cases.**
   
 - **Link:** **[Automation Exercise with Cypress](https://github.com/marianaluduena/cypress-automation-exercise)**
 
@@ -99,41 +99,48 @@ ________________________________________________________________________________
  ## 🎯 Skills:
 
  ### Automation Testing:
- 
+
+ - **CI/CD with GitHub Actions**
+
+ - **Playwright**
+  
+- **Cypress**
+   
 - **API Automation with Postman**
-  
-- **Playwright (learning in porgress)**
-  
+    
 - **OOP Javascript**
   
 - Automated tests and **DOM manipulation with Javascript and DevTools**
-
-### Manual Testing:
-
-- Exploratory testing
-
--  Functional and usability testing of web applications
   
--  Regression testing
-    
 
 ### API Testing:
 
 - **Manual and Automation Testing** with **Postman**
 - **API Documentation** in **Swagger**
+  
+
+### Manual Testing:
+
+- **Exploratory testing**
+
+-  **Functional** and **usability** testing of web applications
+  
+-  **Regression testing**
 
 
 ### Agile Methodologies:
 
+- **Jira**
+  
 - Familiar with **Scrum** and **Kanban**.
 
 __________________________________________________________________________________________________________________
 
  ## 🛠️ Tools:
 
+  - **IA**: I create unusual **test scenarios** with **ChatGPT**, and **debugg code issues** with **Gemini/ Copilot.**
+     
   - **Jira**: I've learned how to **create projects**, **track** and **report** issues and **tasks management** by simulating a **sprint**, and also to get a feel for how **agile methodologies** work.
-    
-  - **Agile Test and X Ray**: I've learned how to **create manual test cases**, **add preconditions**, **write test plans** and **bug reports**.
     
   - **Loom**: my favorite tool to **document evidence**.
     
