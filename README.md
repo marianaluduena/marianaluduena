@@ -38,7 +38,17 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### Cypress Automation Exercise (2025) - Personal project
+### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project (in progress)
+
+- **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
+  
+- **Technologies:** **Playwright**, **TypeScript**, **ChatGPT.**
+  
+- **Skills:** **CI/CD**
+
+- **Link**: **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
+
+### Cypress Automation Exercise (2025) - Personal project (in progress)
 
 - **Description: QA Automation test cases, use cases and exploratory testing.**
   
