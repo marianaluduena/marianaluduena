@@ -22,11 +22,13 @@
 
 ## Bio
 
-Hi, nice to meet you! I'm a **QA Tester** from **Argentina** with **2 years of experience** in as a **QA tester.** 
+Hi, nice to meet you! I'm a **QA Tester** from **Argentina** with **2 years of experience** as a **QA tester.** 
 
-I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright**, **Cypress**, **IA** and **AWS** through online courses, and putting my skills to the test by doing my own **personal projects and professional IT trainings.** 
+I started in 2019 learning how to program by doing my own web sites, and then I became interested in **software testing** and ensuring its highest possible quality. At present, I'm learning **Automation** with **Playwright**, **Cypress**, **IA** and **AWS** through online courses.
 
-Over the next two years, my **goal** is to advance to a **mid-level software tester**!
+**Currently, I'm working as collaborator, testing both Frontend and Backend, suggesting improvements, creating and mainteining test documentation and working closely with developers and product managers.** 
+
+My **goal** is to **advance** on my career as **QA**, **continously learning,** and **mentoring** fellow testers!
 
 📫 **How to reach me:**
 
@@ -38,7 +40,24 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project (in progress)
+### Closed Project - Manual & Automation QA Tester (11/2025 - Currently)
+
+- Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability, and performance of web-based application.**
+
+- Reviewed **requirements and specifications** to ensure **adequate test coverage.**
+
+- Performed **functional testing, regression testing, smoke testing, exploratory testing**. and **API testing** with **Postman.**
+
+- **Identified, documented, tracked, and verified defects using bug tracking tools.**
+  
+- **Collaborated closely with developers** and **product managers.**
+  
+- **Created** and **maintained** clear and accurate **test documentation, including test plans and test cases.**
+  
+- Ensured testing activities were aligned with **Agile/Scrum practices with Jira.**
+
+
+### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project (08/2025 - 11/2025)
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
@@ -108,9 +127,7 @@ ________________________________________________________________________________
    
 - **API Automation with Postman**
     
-- **OOP Javascript**
-  
-- Automated tests and **DOM manipulation with Javascript and DevTools**
+- **Javascript**
   
 
 ### API Testing:
