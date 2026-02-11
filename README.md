@@ -40,7 +40,8 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### Closed Project - Manual & Automation QA Tester (11/2025 - Currently)
+### 🔗 [Sendo Stock](https://www.sendostock.com) - Manual & Automation QA Tester (11/2025 - Currently)
+
 
 - Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability, and performance of web-based application.**
 
