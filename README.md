@@ -39,7 +39,6 @@ My **technological stack** includes:
 - **Git**   
 - CI/CD: **GitHub Actions**  
 - IA: **Gemini, ChatGPT, Claude & Copilot**   
-- Performance Testing: **JMeter**   
 
 My **goal** is to **advance** on my career as **QA**, **continously learning,** and **mentoring** fellow testers!
 
@@ -59,10 +58,6 @@ ________________________________________________________________________________
 - Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability, and performance of web-based application.**
 
 - Reviewed **requirements and specifications** to ensure **adequate test coverage.**
-
-- Performed **functional testing, regression testing, smoke testing, exploratory testing**. and **API testing** with **Postman.**
-
-- **Identified, documented, tracked, and verified defects using bug tracking tools.**
   
 - **Collaborated closely with developers** and **product managers.**
   
@@ -80,16 +75,6 @@ ________________________________________________________________________________
 - **Skills:** **Automation, programming, CI/CD, IA**
 
 - **Link**: **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
-
-### Cypress Automation Exercise (2025) - Personal project (in progress)
-
-- **Description: QA Automation test cases, use cases and exploratory testing.**
-  
-- **Technologies:** **Cypress**, **JavaScript**, **ChatGPT.**
-  
-- **Skills:** **Exploratory testing**, **Automation testing**, **programming**, **use cases.**
-  
-- **Link:** **[Automation Exercise with Cypress](https://github.com/marianaluduena/cypress-automation-exercise)**
 
  __________________________________________________________________________________________________________________
 
@@ -180,8 +165,6 @@ ________________________________________________________________________________
   - **Postman**: I've gained experience through manual testing of public APIs used for educational purposes.
     
   - **Browser Developer's Tools**: **Network** and **Lighthouse**.
-
-  - **JMeter** 
 
 __________________________________________________________________________________________________________________
 
