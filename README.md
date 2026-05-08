@@ -55,7 +55,7 @@ ________________________________________________________________________________
 ### 🔗 [Sendo Stock](https://www.sendostock.com) - Manual & Automation QA Tester (11/2025 - Currently)
 
 
-- Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability, and performance of web-based application.**
+- Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability of web-based application.** **API** validation with **Postman**.
 
 - Reviewed **requirements and specifications** to ensure **adequate test coverage.**
   
