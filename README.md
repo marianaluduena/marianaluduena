@@ -22,7 +22,7 @@
 
 ## Bio
 
-My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential. **I enjoy collaborating with cross-functional teams**, using my communication skills to **ensure project success.** I am deeply committed to excellence and precision in software quality.
+My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential. **I enjoy collaborating with cross-functional teams**, using my **communication skills** to **ensure project success.** I am deeply committed to excellence and precision in software quality.
 
 Currently working as a **Freelance QA for a SaaS project**, delivering the following results to date:
 
@@ -35,10 +35,11 @@ Currently working as a **Freelance QA for a SaaS project**, delivering the follo
 My **technological stack** includes:
 
 - Automation Testing: **Playwright & Cypress**  
-- API Testing:  **Postman**  
+- API Testing:  **Postman** and **Swagger**
 - **Git**   
 - CI/CD: **GitHub Actions**  
-- IA: **Gemini, ChatGPT, Claude & Copilot**   
+- IA: **Gemini, ChatGPT, Claude & Copilot**
+- Management tools: **Click Up** and **Jira.**  
 
 My **goal** is to **advance** on my career as **QA**, **continously learning,** and **mentoring** fellow testers!
 
@@ -66,6 +67,10 @@ ________________________________________________________________________________
 ### 🔗 [Sendo Stock](https://www.sendostock.com) - Manual & Automation QA Tester (11/2025 - Currently)
 
 
+- **Identified potential risks** during **early feature development and requirements analysis phases.**
+
+- Proposed and implemented a **staging environment,** effectively **reducing production testing and preventing database overload.**
+  
 - Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability of web-based application.** **API** validation with **Postman**.
 
 - Reviewed **requirements and specifications** to ensure **adequate test coverage.**
@@ -74,7 +79,7 @@ ________________________________________________________________________________
   
 - **Created** and **maintained** clear and accurate **test documentation, including test plans and test cases.**
   
-- Ensured testing activities were aligned with **Agile/Scrum practices with Jira.**
+- Ensured testing activities were aligned with **Agile/Scrum practices with Click Up.**
 
 
  __________________________________________________________________________________________________________________
