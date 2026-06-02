@@ -52,6 +52,17 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
+### 🔗 [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual Tester (05/2025 - In progress)
+
+- **Pain points detected and requirement analysis.**
+- **Test plan creation.**
+- **Business's application created with Gemini.**
+- **User stories, test cases created in Trello as track management tool.**
+- **Manual functional and non-functional testing performed.**
+- **Bug reports created.**
+
+ __________________________________________________________________________________________________________________
+
 ### 🔗 [Sendo Stock](https://www.sendostock.com) - Manual & Automation QA Tester (11/2025 - Currently)
 
 
@@ -64,6 +75,11 @@ ________________________________________________________________________________
 - **Created** and **maintained** clear and accurate **test documentation, including test plans and test cases.**
   
 - Ensured testing activities were aligned with **Agile/Scrum practices with Jira.**
+
+
+ __________________________________________________________________________________________________________________
+
+## 💼 Personal projects and professional trainings  
 
 
 ### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project (08/2025 - 11/2025)
