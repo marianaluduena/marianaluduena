@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### 🔗 [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA (05/2025 - In progress)
+### [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA (05/2025 - In progress)
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
@@ -64,7 +64,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
  __________________________________________________________________________________________________________________
 
-### 🔗 [Sendo Stock](https://www.sendostock.com) - Manual & Automation QA Tester (11/2025 - Currently)
+### Sendo Stock - Manual & Automation QA Tester (11/2025 - Currently)
 
 
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
