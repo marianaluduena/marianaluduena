@@ -15,8 +15,6 @@
 ## Table of contents
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
 - [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-work-experience)
-- [Skills](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-skills)
-- [Tools](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#%EF%B8%8F-tools)
 - [Courses and Certificates](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-courses-and-certificates)
 
 
@@ -26,22 +24,22 @@ My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong 
 
 Currently working as a **Freelance QA for a SaaS project**, delivering the following results to date:
 
-- **Decreased mean time to resolution (MTTR)** by **20%** by providing **comprehensive technical documentation.**
+- **Identified a hidden blocking bug** while investigating an ambiguous report.
+  
+- **Identified a critical security vulnerability** that compromised password changes, and proposed necessary improvements to mitigate it.
 
-- **Boosted operational efficiency** by **30%** by spearheading the **shift from manual testing to automation.**
+- Implemented a detailed weekly progress report covering overall system status, **improving defect prioritization, tracking, and resolution, and contributing to overall system quality.**
 
-- **Enhanced system stability** by **15%** through **proactive edge-case detection during early development phases.**
 
-My **technological stack** includes:
+My **stack** includes:
 
-- Automation Testing: **Playwright & Cypress**  
+- Automation Testing: **Playwright and Cypress**
+- Programing: **Javascript** and **Typescript** 
 - API Testing:  **Postman** and **Swagger**
 - **Git**   
 - CI/CD: **GitHub Actions**  
-- IA: **Gemini, ChatGPT, Claude & Copilot**
-- Management tools: **Click Up** and **Jira.**  
-
-My **goal** is to **advance** on my career as **QA**, **continously learning,** and **mentoring** fellow testers!
+- IA: **Claude, Copilot, Gemini and ChatGPT**
+- Management tools: **Click Up**, **Jira** and **Notion**.  
 
 📫 **How to reach me:**
 
@@ -55,12 +53,14 @@ ________________________________________________________________________________
 
 ### 🔗 [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA (05/2025 - In progress)
 
-- **Pain points detected and requirement analysis.**
-- **Test plan creation.**
-- **Business's application created with Gemini.**
-- **User stories, test cases created in Trello as track management tool.**
-- **Manual functional and non-functional testing performed.**
-- **Bug reports created.**
+- Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
+  
+- Developed a test plan to define the scope and types of testing needed for broader coverage.
+Planned and developed a business application using Gemini, ensuring it addressed the main pain points of both the business and its customers.
+
+- Translated the analyzed pain points into user stories and test cases, using Trello as a task management tool, ensuring full coverage by the application.
+  
+- Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
 
  __________________________________________________________________________________________________________________
 
@@ -99,9 +99,9 @@ ________________________________________________________________________________
 
  __________________________________________________________________________________________________________________
 
-### Foo Talent Group Training (2025) - AURA ⚕️🩺
+### Manual QA - Professional Training (2025) - Foo Talent Group
 
-- **Description:** QA Manual and Automation analysis of a **web medical service application** created during 8 weeks in my 3rd IT professional training programm in **Foo Talent Group**. Please note that **this project is in Spanish.**
+- **Description:** Manual QA on a cross-functional team delivering a real-world platform for a pediatric healthcare client. Identified functional gaps and proposed targeted improvements that reduced production bugs by 30%, strengthening system reliability for end users. Designed and executed end-to-end functional, regression, and smoke tests across Frontend and Backend, leveraging AI-assisted testing, Postman, and Swagger to validate API contracts and business logic. Please note that **this project is in Spanish.**
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
@@ -111,9 +111,9 @@ ________________________________________________________________________________
 
   __________________________________________________________________________________________________________________
 
-### Igrowker Junior IT Training (2025) - Beetrack 📈 📊
+### Manual QA - Professional Training (2025) - Igrowker ISA 
 
-- **Description:** QA Manual and Automation analysis of a **SaaS (Software as a Service)** application created during 4 weeks in my **2nd IT professional training programm** in **Igrowker**. Please note that **this project is in Spanish, but I translated the final quality report to English**.
+- **Description:** Led a team of 2 QA testers across test planning, prioritization, and manual execution for an E-commerce SaaS project, meeting tight delivery deadlines while achieving 98% test coverage. Designed comprehensive test plans and documentation that ensured full validation of requirements. Executed functional, API, and regression testing to safeguard release quality across critical commerce flows. Please note that **this project is in Spanish.**
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
@@ -123,69 +123,15 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 
-### Igrowker Junior IT Training (2024) - Wander 🏖️🏄‍♀️
+### Manual QA - Professional Training (2024) - Igrowker Junior ISA 
 
-- **Description:** QA Manual and Automation analysis of a **Web App** created during 4 weeks in my **1st IT professional training programm** in **Igrowker**. Please note that **this project is in Spanish, but I translated the Test Plan and final quality report to English**.
+- **Description:** Identified critical bugs representing 16% of all reported issues, enabling rapid resolution through clear, structured documentation and contributing to overall system stability. Executed functional manual testing and API automation testing with Postman to validate core functionality. Authored comprehensive testing documentation, including test cases, bug reports, post-fix exploratory test reports, and final evaluation summaries streamlining communication between QA and development. Please note that **this project is in Spanish.**.
   
 - **Technologies:** **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
   
 - **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
   
 - **Link:** **[Wander Project](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
-
-__________________________________________________________________________________________________________________
-
- ## 🎯 Skills:
-
- ### Automation Testing:
-
- - **CI/CD with GitHub Actions**
-
- - **Playwright**
-  
-- **Cypress**
-   
-- **API Automation with Postman**
-    
-- **Javascript**
-  
-
-### API Testing:
-
-- **Manual and Automation Testing** with **Postman**
-- **API Documentation** in **Swagger**
-  
-
-### Manual Testing:
-
-- **Exploratory testing**
-
--  **Functional** and **usability** testing of web applications
-  
--  **Regression testing**
-
-
-### Agile Methodologies:
-
-- **Jira**
-  
-- **ClickUP**
-  
-- Familiar with **Scrum** and **Kanban**.
-
-__________________________________________________________________________________________________________________
-
- ## 🛠️ Tools:
-
-  - **IA**: I create unusual **test scenarios** with **ChatGPT**, and **debugg code issues** with **Gemini, Copilot and Claude.**
-     
-  - **Jira**: I've learned how to **create projects**, **track** and **report** issues and **tasks management** by simulating a **sprint**, and also to get a feel for how **agile methodologies** work.
-    
-  - **Loom**: my favorite tool to **document evidence**.
-    
-  - **Postman**: I've gained experience through manual testing of public APIs used for educational purposes.
-    
-  - **Browser Developer's Tools**: **Network** and **Lighthouse**.
 
 __________________________________________________________________________________________________________________
 
