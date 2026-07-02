@@ -35,7 +35,8 @@ My **stack** includes:
 
 - Automation Testing: **Playwright and Cypress**
 - Programing: **Javascript** and **Typescript** 
-- API Testing:  **Postman** and **Swagger**
+- API Testing:  **Postman**, **Karate**, **Swagger**
+- DDBB: **SQL**, **Mongo DB**
 - **Git**   
 - CI/CD: **GitHub Actions**  
 - IA: **Claude, Copilot, Gemini and ChatGPT**
