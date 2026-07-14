@@ -52,7 +52,8 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA (05/2025 - In progress)
+### [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA 
+**May 2025 to the Present**
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
