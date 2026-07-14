@@ -124,7 +124,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
 __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training (2024) - Igrowker Junior ISA 
+### Manual QA - Professional Training (2024) - Igrowker ISA 
 
 - **Description:** Identified critical bugs representing 16% of all reported issues, enabling rapid resolution through clear, structured documentation and contributing to overall system stability. Executed functional manual testing and API automation testing with Postman to validate core functionality. Authored comprehensive testing documentation, including test cases, bug reports, post-fix exploratory test reports, and final evaluation summaries streamlining communication between QA and development. Please note that **this project is in Spanish.**.
   
