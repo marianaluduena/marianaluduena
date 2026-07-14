@@ -65,7 +65,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
  __________________________________________________________________________________________________________________
 
-### Sendo Stock - Manual & Automation QA Tester (11/2025 - Currently)
+### Sendo Stock - Manual & Automation QA Tester 
+**Nov 2025 to the Present**
 
 
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
@@ -88,7 +89,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 ## 💼 Personal projects and professional trainings  
 
 
-### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project (08/2025 - 11/2025)
+### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project 
+**Aug 2025 - Nov 2025**
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
@@ -100,7 +102,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
  __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training (2025) - Foo Talent Group
+### Manual QA - Professional Training Foo Talent Group Smart Projects
+**Apr 2025 - May 2025**
 
 - **Description:** Manual QA on a cross-functional team delivering a real-world platform for a pediatric healthcare client. Identified functional gaps and proposed targeted improvements that reduced production bugs by 30%, strengthening system reliability for end users. Designed and executed end-to-end functional, regression, and smoke tests across Frontend and Backend, leveraging AI-assisted testing, Postman, and Swagger to validate API contracts and business logic. Please note that **this project is in Spanish.**
   
@@ -112,7 +115,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
   __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training (2025) - Igrowker ISA 
+### Manual QA - Professional Training Igrowker ISA
+**Mar 2025 - Apr 2025**
 
 - **Description:** Led a team of 2 QA testers across test planning, prioritization, and manual execution for an E-commerce SaaS project, meeting tight delivery deadlines while achieving 98% test coverage. Designed comprehensive test plans and documentation that ensured full validation of requirements. Executed functional, API, and regression testing to safeguard release quality across critical commerce flows. Please note that **this project is in Spanish.**
   
@@ -124,7 +128,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
 __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training (2024) - Igrowker ISA 
+### Manual QA - Professional Training Igrowker ISA 
+**Nov 2024 - Dec 2024**
 
 - **Description:** Identified critical bugs representing 16% of all reported issues, enabling rapid resolution through clear, structured documentation and contributing to overall system stability. Executed functional manual testing and API automation testing with Postman to validate core functionality. Authored comprehensive testing documentation, including test cases, bug reports, post-fix exploratory test reports, and final evaluation summaries streamlining communication between QA and development. Please note that **this project is in Spanish.**.
   
