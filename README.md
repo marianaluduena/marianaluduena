@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) - QA Analyst & Manual QA 
+### QA Analyst & Manual QA [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
 **May 2025 to the Present**
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
@@ -66,7 +66,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
  __________________________________________________________________________________________________________________
 
-### Sendo Stock - Manual & Automation QA Tester 
+### Manual & Automation QA Tester - Sendo Stock
 **Nov 2025 to the Present**
 
 
@@ -90,7 +90,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 ## 💼 Personal projects and professional trainings  
 
 
-### Playwright E2E Automation with TypeScript + CI/CD (2025) - Personal project 
+### QA Automation with Playwright E2E Automation with TypeScript + CI/CD - Personal project 
 **Aug 2025 - Nov 2025**
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
