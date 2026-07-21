@@ -31,7 +31,7 @@ Currently working as a **Freelance QA for a SaaS project**, delivering the follo
 - Implemented a detailed weekly progress report covering overall system status, **improving defect prioritization, tracking, and resolution, and contributing to overall system quality.**
 
 
-My **stack** includes:
+**My stack includes:**
 
 - Automation Testing: **Playwright and Cypress**
 - Programing: **Javascript** and **Typescript** 
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### QA Analyst & Manual QA [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
+### QA Analyst & Manual QA - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
 **May 2025 to the Present**
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
