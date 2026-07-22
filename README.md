@@ -20,9 +20,9 @@
 
 ## Bio
 
-My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential. **I enjoy collaborating with cross-functional teams**, using my **communication skills** to **ensure project success.** I am deeply committed to excellence and precision in software quality.
+My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential.
 
-Currently working as a **Freelance QA for a SaaS project**, delivering the following results to date:
+Currently I'm working as a **Freelance QA for a SaaS project**, delivering the following results to date:
 
 - **Identified a hidden blocking bug** while investigating an ambiguous report.
   
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### QA Analyst & Manual QA - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
+### QA Analyst - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
 **May 2025 to the Present**
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
