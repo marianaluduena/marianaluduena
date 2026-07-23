@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ## 🧱 Work experience:
 
 ### QA Analyst - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
-**May 2025 to the Present**
+**May 2025 to the Present** | Project for a real client
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
@@ -67,7 +67,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
  __________________________________________________________________________________________________________________
 
 ### Manual & Automation QA Tester - Sendo Stock
-**Nov 2025 to the Present**
+**Nov 2025 to the Present** | Startup
 
 
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
@@ -90,8 +90,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 ## 💼 Personal projects and professional trainings  
 
 
-### QA Automation with Playwright E2E Automation with TypeScript + CI/CD - Personal project 
-**Aug 2025 - Nov 2025**
+### QA Automation - **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)** **Aug 2025 - Nov 2025** | Course
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
@@ -99,46 +98,37 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - **Skills:** **Automation, programming, CI/CD, IA**
 
-- **Link**: **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
-
  __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training Foo Talent Group Smart Projects
-**Apr 2025 - May 2025**
+### Manual QA - **[AURA Project](https://github.com/marianaluduena/aura-professional-project)**
+**Apr 2025 - May 2025** | Professional Training Foo Talent Group Smart Projects
 
 - **Description:** Manual QA on a cross-functional team delivering a real-world platform for a pediatric healthcare client. Identified functional gaps and proposed targeted improvements that reduced production bugs by 30%, strengthening system reliability for end users. Designed and executed end-to-end functional, regression, and smoke tests across Frontend and Backend, leveraging AI-assisted testing, Postman, and Swagger to validate API contracts and business logic. Please note that **this project is in Spanish.**
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
 - **Skills:** **Exploratory testing**, **API testing**, **regression testing**,, **Smoke testing**
-  
-- **Link:** **[AURA Project](https://github.com/marianaluduena/aura-professional-project)**
 
   __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training Igrowker ISA
-**Mar 2025 - Apr 2025**
+### Manual QA - **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)** 
+**Mar 2025 - Apr 2025** | Professional Training Igrowker ISA
 
 - **Description:** Led a team of 2 QA testers across test planning, prioritization, and manual execution for an E-commerce SaaS project, meeting tight delivery deadlines while achieving 98% test coverage. Designed comprehensive test plans and documentation that ensured full validation of requirements. Executed functional, API, and regression testing to safeguard release quality across critical commerce flows. Please note that **this project is in Spanish.**
   
 - **Technologies:** **Postman**, **DevTools**, **ChatGPT** 
   
 - **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
-  
-- **Link:** **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
-
 __________________________________________________________________________________________________________________
 
-### Manual QA - Professional Training Igrowker ISA 
-**Nov 2024 - Dec 2024**
+### Manual QA - **[Wander Project](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
+**Nov 2024 - Dec 2024** | Professional Training Igrowker ISA 
 
 - **Description:** Identified critical bugs representing 16% of all reported issues, enabling rapid resolution through clear, structured documentation and contributing to overall system stability. Executed functional manual testing and API automation testing with Postman to validate core functionality. Authored comprehensive testing documentation, including test cases, bug reports, post-fix exploratory test reports, and final evaluation summaries streamlining communication between QA and development. Please note that **this project is in Spanish.**.
   
 - **Technologies:** **Postman**, **Lighthouse**, **ChatGPT**, **Jira X Ray**. 
   
 - **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
-  
-- **Link:** **[Wander Project](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
 
 __________________________________________________________________________________________________________________
 
