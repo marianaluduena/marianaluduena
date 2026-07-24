@@ -12,6 +12,13 @@
 </div>!
  </div>
 
+📫 ## **How to reach me:**
+
+- 🤝 See my profile in **[LinkedIn](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)**
+  
+- 📧 **My E-Mail:** marianabelenluduena@gmail.com
+  
+
 ## Table of contents
 - [Bio](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#bio)
 - [Work experience](https://github.com/marianaluduena/marianaluduena/blob/main/README.md#-work-experience)
@@ -41,12 +48,6 @@ Currently I'm working as a **Freelance QA for a SaaS project**, delivering the f
 - CI/CD: **GitHub Actions**  
 - IA: **Claude, Copilot, Gemini and ChatGPT**
 - Management tools: **Click Up**, **Jira** and **Notion**.  
-
-📫 **How to reach me:**
-
-- 🤝 See my profile in **[LinkedIn](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)**
-  
-- 📧 **My E-Mail:** marianabelenluduena@gmail.com
 
 __________________________________________________________________________________________________________________
 
