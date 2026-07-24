@@ -12,7 +12,7 @@
 </div>!
  </div>
 
-📫 ## **How to reach me:**
+## **How to reach me:**
 
 - 🤝 See my profile in **[LinkedIn](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)**
   
