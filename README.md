@@ -91,7 +91,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 ## 💼 Personal projects and professional trainings  
 
 
-### QA Automation - **[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)** **Aug 2025 - Nov 2025** | Course
+### QA Automation -**[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
+**Aug 2025 - Nov 2025** | Course
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
