@@ -60,6 +60,8 @@ ________________________________________________________________________________
 ### QA Analyst - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
 **May 2025 to the Present** | Project for a real client
 
+- **Description: Landing page creation and manual testing for a coffee shop client.**
+
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
 - Developed a test plan to define the scope and types of testing needed for broader coverage.
@@ -69,12 +71,16 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
 
+- **Technologies:** **Gemini**, **Trello**.
+  
+- **Skills**: **Requirement analysis**, **Test planning and documentation.**
  __________________________________________________________________________________________________________________
 
 ### Manual & Automation QA Tester - Sendo Stock
 **Nov 2025 to the Present** | Startup
 
-
+- **Description: SaaS E-Commerce project**
+  
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
 
 - Proposed and implemented a **staging environment,** effectively **reducing production testing and preventing database overload.**
@@ -89,7 +95,9 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - Ensured testing activities were aligned with **Agile/Scrum practices with Click Up.**
 
-
+- **Technologies:** **Playwright with TypeScript**,**Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
+  
+- **Skills**: **Requirement analysis**, **Test planning and documentation**
  __________________________________________________________________________________________________________________
 
 ## 💼 Personal projects and professional trainings  
@@ -102,7 +110,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - **Technologies:** **Playwright**, **TypeScript**, **ChatGPT, Copilot**
   
-- **Skills:** **Automation, programming, CI/CD, IA**
+- **Skills:** **Automation, programming, CI/CD**
 
  __________________________________________________________________________________________________________________
 
