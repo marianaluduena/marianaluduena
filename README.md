@@ -31,9 +31,13 @@ My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong 
 
 Currently I'm working as a **QA for a SaaS project**, delivering the following results to date:
 
-- **Identified a hidden blocking bug** while investigating an ambiguous report.
-  
-- **Identified a critical security vulnerability** that compromised password changes, and proposed necessary improvements to mitigate it.
+- **Identified a hidden blocking bug by investigating an ambiguous report through exploratory testing:** the issue initially appeared to be a subscription limitation, but analysis revealed an independent defect in the product upload form logic. Rapid detection and successful resolution mitigated the issue before it reached end-users.
+
+- **Improved commercial document workflows** by detecting business inconsistencies, achieving precise inventory control in delivery notes and greater user flexibility when uploading estimates.
+
+- **Streamlined the testing process by driving the transition from manual to automated testing** using **Playwright** and **TypeScript**, integrating **CI/CD** validations with **GitHub Actions** after each deployment to achieve early detection of potential failures in continuous integration.
+
+- **Identified a critical security vulnerability** regarding password changes without re-authentication from an active session, and proposed necessary improvements to mitigate it.
 
 - Implemented a detailed weekly progress report covering overall system status, **improving defect prioritization, tracking, and resolution, and contributing to overall system quality.**
 
