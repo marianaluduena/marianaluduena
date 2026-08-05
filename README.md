@@ -111,7 +111,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
 
 ### QA Automation -**Playwright E2E Automation with TypeScript + CI/CD**
-**Aug 2025 - Nov 2025** | Course - [See project here]((https://github.com/marianaluduena/workshop-playwright-atenea))
+**Aug 2025 - Nov 2025** | Course - [See project here](https://github.com/marianaluduena/workshop-playwright-atenea)
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
@@ -121,8 +121,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
  __________________________________________________________________________________________________________________
 
-### Manual QA - **[AURA Project](https://github.com/marianaluduena/aura-professional-project)**
-**Apr 2025 - May 2025** | Professional Training Foo Talent Group Smart Projects
+### Manual QA - **AURA Project**
+**Apr 2025 - May 2025** | Professional Training Foo Talent Group Smart Projects - **[See project here](https://github.com/marianaluduena/aura-professional-project)**
 
 - **Description:** Manual QA on a cross-functional team delivering a real-world platform for a pediatric healthcare client. Identified functional gaps and proposed targeted improvements that reduced production bugs by 30%, strengthening system reliability for end users. Designed and executed end-to-end functional, regression, and smoke tests across Frontend and Backend, leveraging AI-assisted testing, Postman, and Swagger to validate API contracts and business logic. Please note that **this project is in Spanish.**
   
@@ -132,8 +132,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 
   __________________________________________________________________________________________________________________
 
-### Manual QA - **[Beetrack Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)** 
-**Mar 2025 - Apr 2025** | Professional Training Igrowker ISA
+### Manual QA - **Beetrack Project** 
+**Mar 2025 - Apr 2025** | Professional Training Igrowker ISA - **[See project here](https://github.com/marianaluduena/automation-beetrack-saas-igrowker)**
 
 - **Description:** Led a team of 2 QA testers across test planning, prioritization, and manual execution for an E-commerce SaaS project, meeting tight delivery deadlines while achieving 98% test coverage. Designed comprehensive test plans and documentation that ensured full validation of requirements. Executed functional, API, and regression testing to safeguard release quality across critical commerce flows. Please note that **this project is in Spanish.**
   
@@ -142,8 +142,8 @@ Planned and developed a business application using Gemini, ensuring it addressed
 - **Skills:** **Test plan**, **exploratory testing**, **API testing**, **regression testing**
 __________________________________________________________________________________________________________________
 
-### Manual QA - **[Wander Project](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
-**Nov 2024 - Dec 2024** | Professional Training Igrowker ISA 
+### Manual QA - **Wander Project**
+**Nov 2024 - Dec 2024** | Professional Training Igrowker ISA - **[See project here](https://github.com/marianaluduena/qa-manual-wander-professional-project)**
 
 - **Description:** Identified critical bugs representing 16% of all reported issues, enabling rapid resolution through clear, structured documentation and contributing to overall system stability. Executed functional manual testing and API automation testing with Postman to validate core functionality. Authored comprehensive testing documentation, including test cases, bug reports, post-fix exploratory test reports, and final evaluation summaries streamlining communication between QA and development. Please note that **this project is in Spanish.**.
   
