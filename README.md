@@ -14,7 +14,7 @@
 
 ## **How to reach me:**
 
-- 🤝 See my profile in **[LinkedIn](https://linkedin.com/in/mariana-ludue%C3%B1a-qa-tester-engineer/)**
+- 🤝 See my profile in **[LinkedIn](https://www.linkedin.com/in/mariana-luduena-qa-tester-engineer/?locale=en-US)**
   
 - 📧 **My E-Mail:** marianabelenluduena@gmail.com
   
@@ -29,7 +29,7 @@
 
 My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential.
 
-Currently I'm working as a **Freelance QA for a SaaS project**, delivering the following results to date:
+Currently I'm working as a **QA for a SaaS project**, delivering the following results to date:
 
 - **Identified a hidden blocking bug** while investigating an ambiguous report.
   
@@ -46,7 +46,7 @@ Currently I'm working as a **Freelance QA for a SaaS project**, delivering the f
 - DDBB: **SQL**, **Mongo DB**
 - **Git**   
 - CI/CD: **GitHub Actions**  
-- IA: **Claude, Copilot, Gemini and ChatGPT**
+- IA: **Claude, Copilot and Gemini**
 - Management tools: **Click Up**, **Jira** and **Notion**.  
 
 __________________________________________________________________________________________________________________
