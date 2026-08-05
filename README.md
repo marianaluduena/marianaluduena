@@ -57,10 +57,15 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### QA Analyst - [El café de tu esquina](https://github.com/marianaluduena/el_cafe_de_tu_esquina) 
-**May 2025 to the Present** | Project for a real client
-
+### QA Analyst - El café de tu esquina 
+**May 2025 to the Present** | Project for a real client - **[See project here](https://github.com/marianaluduena/el_cafe_de_tu_esquina)** 
 - **Description: Landing page creation and manual testing for a coffee shop client.**
+  
+- **Technologies:** **Gemini**, **Trello**.
+  
+- **Skills**: **Requirement analysis**, **Test planning and documentation.**
+
+**Key Achievements:**
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
@@ -71,15 +76,19 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
 
-- **Technologies:** **Gemini**, **Trello**.
-  
-- **Skills**: **Requirement analysis**, **Test planning and documentation.**
  __________________________________________________________________________________________________________________
 
 ### Manual & Automation QA Tester - Sendo Stock
 **Nov 2025 to the Present** | Startup
 
-- **Description: SaaS E-Commerce project**
+- **Description: SaaS E-Commerce project.**
+
+- **Technologies:** **Playwright with TypeScript**,**Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
+  
+- **Skills**: **Requirement analysis**, **Test planning and documentation**
+  
+
+**Key Achievements:**  
   
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
 
@@ -95,16 +104,13 @@ Planned and developed a business application using Gemini, ensuring it addressed
   
 - Ensured testing activities were aligned with **Agile/Scrum practices with Click Up.**
 
-- **Technologies:** **Playwright with TypeScript**,**Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
-  
-- **Skills**: **Requirement analysis**, **Test planning and documentation**
  __________________________________________________________________________________________________________________
 
 ## 💼 Personal projects and professional trainings  
 
 
-### QA Automation -**[Playwright E2E Automation with TypeScript + CI/CD](https://github.com/marianaluduena/workshop-playwright-atenea)**
-**Aug 2025 - Nov 2025** | Course
+### QA Automation -**Playwright E2E Automation with TypeScript + CI/CD**
+**Aug 2025 - Nov 2025** | Course - [See project here]((https://github.com/marianaluduena/workshop-playwright-atenea))
 
 - **Description: QA Automation test cases, E2E Testing and CI/CD pipeline with GitHub Actions.**
   
