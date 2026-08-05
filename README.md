@@ -65,7 +65,8 @@ ________________________________________________________________________________
   
 - **Skills**: **Requirement analysis**, **Test planning and documentation.**
 
-**Key Achievements:**
+
+🟢 **Key Achievements:** 
 
 - Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
   
@@ -88,7 +89,7 @@ Planned and developed a business application using Gemini, ensuring it addressed
 - **Skills**: **Requirement analysis**, **Test planning and documentation**
   
 
-**Key Achievements:**  
+🔵 **Key Achievements:**  
   
 - **Identified potential risks** during **early feature development and requirements analysis phases.**
 
