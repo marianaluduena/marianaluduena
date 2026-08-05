@@ -50,7 +50,7 @@ Currently I'm working as a **QA for a SaaS project**, delivering the following r
 - DDBB: **SQL**, **Mongo DB**
 - **Git**   
 - CI/CD: **GitHub Actions**  
-- IA: **Claude, Copilot and Gemini**
+- AI: **Claude, Copilot and Gemini**
 - Management tools: **Click Up**, **Jira** and **Notion**.  
 
 __________________________________________________________________________________________________________________
