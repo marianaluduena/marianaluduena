@@ -148,7 +148,7 @@ ________________________________________________________________________________
 
 This was an introductory API course to know about the GET, POST, PUT/PATCH, DELETE methods and getting hands-on-experience by using an API and manipulating the endpoints. 
 
-- [Postman API Fundamentals Student Expert certification](https://drive.google.com/file/d/1HpHq_4DPDo1p1v8_GvmlkOGP0TtcdsUL/view?usp=sharing)
+- [Postman API Fundamentals Student Expert certification](https://drive.google.com/file/d/1tWsJEPRfxAqlFmE46OJoLNh2FTsYDEot/view?usp=drive_link)
 
 __________________________________________________________________________________________________________________
 
