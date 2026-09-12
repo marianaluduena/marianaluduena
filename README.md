@@ -27,20 +27,7 @@
 
 ## Bio
 
-My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential.
-
-Currently I'm working as a **QA for a SaaS project**, delivering the following results to date:
-
-- **Identified a hidden blocking bug by investigating an ambiguous report through exploratory testing:** the issue initially appeared to be a subscription limitation, but analysis revealed an independent defect in the product upload form logic. Rapid detection and successful resolution mitigated the issue before it reached end-users.
-
-- **Improved commercial document workflows** by detecting business inconsistencies, achieving precise inventory control in delivery notes and greater user flexibility when uploading estimates.
-
-- **Streamlined the testing process by driving the transition from manual to automated testing** using **Playwright** and **TypeScript**, integrating **CI/CD** validations with **GitHub Actions** after each deployment to achieve early detection of potential failures in continuous integration.
-
-- **Identified a critical security vulnerability** regarding password changes without re-authentication from an active session, and proposed necessary improvements to mitigate it.
-
-- Implemented a detailed weekly progress report covering overall system status, **improving defect prioritization, tracking, and resolution, and contributing to overall system quality.**
-
+My name is Mariana Ludueña, I am a **Manual & Automation QA.** I am a lifelong learner passionate about technology, English, and empowering others to reach their full potential. Currently I'm working as a **QA for a SaaS project**.
 
 **My stack includes:**
 
@@ -49,28 +36,6 @@ Currently I'm working as a **QA for a SaaS project**, delivering the following r
 __________________________________________________________________________________________________________________
 
 ## 🧱 Work experience:
-
-### QA Analyst - El café de tu esquina 
-**May 2026 - Jun 2026** | Project for a real client - **[See project here](https://github.com/marianaluduena/el_cafe_de_tu_esquina)** 
-- **Description: Landing page creation and manual testing for a coffee shop client.**
-  
-- **Technologies:** **Gemini**, **Trello**.
-  
-- **Skills**: **Requirement analysis**, **Test planning and documentation.**
-
-
-🟢 **Key Achievements:** 
-
-- Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
-  
-- Developed a test plan to define the scope and types of testing needed for broader coverage.
-Planned and developed a business application using Gemini, ensuring it addressed the main pain points of both the business and its customers.
-
-- Translated the analyzed pain points into user stories and test cases, using Trello as a task management tool, ensuring full coverage by the application.
-  
-- Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
-
- __________________________________________________________________________________________________________________
 
 ### Manual & Automation QA Tester - Sendo Stock
 **Nov 2025 to the Present** | Startup
@@ -97,8 +62,30 @@ Requirements and acceptance criteria: Drove the definition of requirements and a
 
 - **Implemented a weekly progress report** covering overall system status, identified risks, and documented bugs supporting the team's decision-making, bug prioritization, and tracking in ClickUp, and enabling better application performance for the user.
 
+ __________________________________________________________________________________________________________________
+
+### QA Analyst - El café de tu esquina 
+**May 2026 - Jun 2026** | Project for a real client - **[See project here](https://github.com/marianaluduena/el_cafe_de_tu_esquina)** 
+- **Description: Landing page creation and manual testing for a coffee shop client.**
+  
+- **Technologies:** **Gemini**, **Trello**.
+  
+- **Skills**: **Requirement analysis**, **Test planning and documentation.**
+
+
+🟢 **Key Achievements:** 
+
+- Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
+  
+- Developed a test plan to define the scope and types of testing needed for broader coverage.
+Planned and developed a business application using Gemini, ensuring it addressed the main pain points of both the business and its customers.
+
+- Translated the analyzed pain points into user stories and test cases, using Trello as a task management tool, ensuring full coverage by the application.
+  
+- Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
 
  __________________________________________________________________________________________________________________
+ 
 
 ## 💼 Personal projects and professional trainings  
 
