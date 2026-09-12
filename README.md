@@ -44,21 +44,14 @@ Currently I'm working as a **QA for a SaaS project**, delivering the following r
 
 **My stack includes:**
 
-- Automation Testing: **Playwright and Cypress**
-- Programing: **Javascript** and **Typescript** 
-- API Testing:  **Postman**, **Karate**, **Swagger**
-- DDBB: **SQL**, **Mongo DB**
-- **Git**   
-- CI/CD: **GitHub Actions**  
-- AI: **Claude, Copilot and Gemini**
-- Management tools: **Click Up**, **Jira** and **Notion**.  
+- Playwright, Cypress, Postman, Swagger, DevTools, Git, GitHub Actions, SQL, Mongo DB, JavaScript, TypeScript, Claude, Gemini, Copilot.  
 
 __________________________________________________________________________________________________________________
 
 ## 🧱 Work experience:
 
 ### QA Analyst - El café de tu esquina 
-**May 2025 to the Present** | Project for a real client - **[See project here](https://github.com/marianaluduena/el_cafe_de_tu_esquina)** 
+**May 2026 - Jun 2026** | Project for a real client - **[See project here](https://github.com/marianaluduena/el_cafe_de_tu_esquina)** 
 - **Description: Landing page creation and manual testing for a coffee shop client.**
   
 - **Technologies:** **Gemini**, **Trello**.
@@ -82,28 +75,28 @@ Planned and developed a business application using Gemini, ensuring it addressed
 ### Manual & Automation QA Tester - Sendo Stock
 **Nov 2025 to the Present** | Startup
 
-- **Description: SaaS E-Commerce project.**
+- **Description: I perform end-to-end, regression, API, functional, smoke, and automation testing with Playwright on a SaaS e-commerce application.**
 
 - **Technologies:** **Playwright with TypeScript**,**Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
   
 - **Skills**: **Requirement analysis**, **Test planning and documentation**
   
 
-🔵 **Key Achievements:**  
-  
-- **Identified potential risks** during **early feature development and requirements analysis phases.**
+🔵 **The value I bring:**  
 
-- Proposed and implemented a **staging environment,** effectively **reducing production testing and preventing database overload.**
-  
-- Executed **manual** and **automated test cases** with **Playwright** and **CI/CD** with **GitHub Actions** to validate **functionality, usability of web-based application.** **API** validation with **Postman**.
+- **Blocking bugs detected in critical modules:** Detected 3 blocking bugs that prevented completing data entry in the Products and Stock modules used daily by users. By reporting them before they reached production, I prevented operational disruptions, ensuring the trust, loyalty, and retention of existing users.
 
-- Reviewed **requirements and specifications** to ensure **adequate test coverage.**
-  
-- **Collaborated closely with developers** and **product managers.**
-  
-- **Created** and **maintained** clear and accurate **test documentation, including test plans and test cases.**
-  
-- Ensured testing activities were aligned with **Agile/Scrum practices with Click Up.**
+- **Resolved poorly defined role-based permissions:** Discovered that role-based permissions were not properly restricted, exposing sensitive areas to users without the appropriate role. This led to a quick fix and proper permission handling for already registered users, safeguarding their privacy and confidentiality.
+
+- **Blocked sales due to invoice/quote type combinations:** Identified that certain combinations of invoice type and quote type prevented sales from being generated a bug that would have directly impacted the app's clients' real billing.
+Requirements and acceptance criteria: Drove the definition of requirements and acceptance criteria per task, resulting in greater test coverage and less ambiguity for the whole team.
+
+- **Correct implementation of delivery notes and quotes:** Improved commercial document workflows by identifying business logic inconsistencies in the correct use of delivery notes and quotes, making them easier for users to work with and ensuring accurate stock records.
+
+- **Streamlined the testing process by driving the transition from manual to automated testing** with Playwright, achieving better time optimization when testing critical functionalities that require manual testing due to complex calculations.
+
+- **Implemented a weekly progress report** covering overall system status, identified risks, and documented bugs supporting the team's decision-making, bug prioritization, and tracking in ClickUp, and enabling better application performance for the user.
+
 
  __________________________________________________________________________________________________________________
 
