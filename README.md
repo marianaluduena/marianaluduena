@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 - **Description: I perform end-to-end, regression, API, functional, smoke, and automation testing with Playwright on a SaaS e-commerce application.**
 
-- **Technologies:** **Playwright with TypeScript**,**Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
+- **Technologies:** **Playwright with TypeScript**, **Postman**, **Swagger**, **Git**, **Claude**, **ClickUp**.
   
 - **Skills**: **Requirement analysis**, **Test planning and documentation**
   
