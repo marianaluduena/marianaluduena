@@ -75,14 +75,14 @@ Requirements and acceptance criteria: Drove the definition of requirements and a
 
 🟢 **Key Achievements:** 
 
-- Identified and analyzed pain points from customers, from my own experience as a customer, and from the business perspective.
-  
-- Developed a test plan to define the scope and types of testing needed for broader coverage.
-Planned and developed a business application using Gemini, ensuring it addressed the main pain points of both the business and its customers.
+-Performed exploratory, functional, and regression testing on a web application built with AI assistance. The value I brought: 
 
-- Translated the analyzed pain points into user stories and test cases, using Trello as a task management tool, ensuring full coverage by the application.
-  
-- Performed manual testing of the application, identifying in its first version inconsistencies in menu titles and descriptions, business hours that didn't match actual operating hours, and unreadable text in dark mode.
+- **Business analysis & solution design:** Analyzed pain points from both the merchant and customer perspective, then used Gemini to design and build an application that directly addressed the needs of both sides of the business.
+
+- **Manual testing & UX quality:** Conducted manual testing across the application, identifying and resolving critical UI/UX inconsistencies, incorrect menu descriptions, wrong business hours, and dark-mode accessibility issues, improving both usability and the accuracy of business-critical information.
+
+- **Bug lifecycle management:** Managed the full bug lifecycle in Trello, linking every reported defect to its corresponding User Story to ensure full traceability and faster resolution.
+
 
  __________________________________________________________________________________________________________________
  
