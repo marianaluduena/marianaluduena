@@ -135,13 +135,13 @@ ________________________________________________________________________________
 
 ## 🎓 Courses and Certificates:
 
-### Automation Web Testing with Playwright & TypeScript + CI/CD (2025) (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
+### [Automation Web Testing with Playwright & TypeScript + CI/CD (2025)] (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
 
-### QA Automation Testing with Playwright (2025) (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
+### [QA Automation Testing with Playwright (2025)] (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
 
-###  OOP with JavaScript for Testers (2025) (https://drive.google.com/file/d/1XAz2tL7Rgd0smLAfW_5YKDd0XqcYazss/view?usp=drive_link)
+### [OOP with JavaScript for Testers (2025)] (https://drive.google.com/file/d/1XAz2tL7Rgd0smLAfW_5YKDd0XqcYazss/view?usp=drive_link)
 
-### Postman API Fundamentals Student Expert Certification (2024) (https://drive.google.com/file/d/1tWsJEPRfxAqlFmE46OJoLNh2FTsYDEot/view?usp=drive_link)
+### [Postman API Fundamentals Student Expert Certification (2024)] (https://drive.google.com/file/d/1tWsJEPRfxAqlFmE46OJoLNh2FTsYDEot/view?usp=drive_link)
 
 __________________________________________________________________________________________________________________
 
