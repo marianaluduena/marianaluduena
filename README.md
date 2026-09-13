@@ -75,7 +75,7 @@ Requirements and acceptance criteria: Drove the definition of requirements and a
 
 🟢 **Key Achievements:** 
 
--Performed exploratory, functional, and regression testing on a web application built with AI assistance. The value I brought: 
+- Performed exploratory, functional, and regression testing on a web application built with AI assistance. The value I brought: 
 
 - **Business analysis & solution design:** Analyzed pain points from both the merchant and customer perspective, then used Gemini to design and build an application that directly addressed the needs of both sides of the business.
 
