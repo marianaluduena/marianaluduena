@@ -135,7 +135,7 @@ ________________________________________________________________________________
 
 ## 🎓 Courses and Certificates:
 
-### [Automation Web Testing with Playwright & TypeScript + CI/CD (2025)] (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
+### [Automation Web Testing with Playwright & TypeScript + CI/CD](https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)(2025)
 
 ### [QA Automation Testing with Playwright (2025)] (https://drive.google.com/file/d/1KtjoYdgFghLqLeKdFF79Hb_x0u7remXe/view?usp=drive_link)
 
