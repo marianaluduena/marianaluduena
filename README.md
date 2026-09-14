@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 ## 🧱 Work experience:
 
-### Manual & Automation QA Tester - Sendo Stock
+### Manual & Automation QA Tester - E-Commerce application
 **Nov 2025 to the Present** | Startup
 
 - **Description: I perform end-to-end, regression, API, functional, smoke, and automation testing with Playwright on a SaaS e-commerce application.**
