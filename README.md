@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 🔵 **The value I bring:**  
 
-- **Blocking bugs detected in critical modules:** Detected 3 blocking bugs that prevented completing data entry in the Products and Stock modules used daily by users. By reporting them before they reached production, I prevented operational disruptions, ensuring the trust, loyalty, and retention of existing users.
+- **Blocking bugs detected in critical modules:** Detected 3 blocking bugs that prevented completing data entry in main modules used daily by users. By reporting them before they reached production, I prevented operational disruptions, ensuring the trust, loyalty, and retention of existing users.
 
 - **Resolved poorly defined role-based permissions:** Discovered that role-based permissions were not properly restricted, exposing sensitive areas to users without the appropriate role. This led to a quick fix and proper permission handling for already registered users, safeguarding their privacy and confidentiality.
 
